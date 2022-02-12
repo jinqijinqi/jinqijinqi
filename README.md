@@ -4,6 +4,7 @@
 # 💞️ Publication
 # 📫 Code
 # Tutorial
+<a href="github.com/jinqijinqi/jinqijinqi/README.md">pdf</a>
 
 <!---
 jinqijinqi/jinqijinqi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
