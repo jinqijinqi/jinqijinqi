@@ -1,5 +1,6 @@
-- 👋 This is AIML laboratory in UESTC led by Prof. Jin Qi
-- 👀 Member
+# 👋 This is AIML laboratory in UESTC led by Prof. Jin Qi
+# 👀 Member
+- jin qi
 - 🌱 Project
 - 💞️ Publication
 - 📫 Code
