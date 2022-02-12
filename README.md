@@ -1,10 +1,11 @@
 # 👋 This is AIML laboratory in UESTC led by Prof. Jin Qi
 # 👀 Member
 - jin qi
-- 🌱 Project
-- 💞️ Publication
-- 📫 Code
-- - Tutorial
+- Ying Li
+# 🌱 Project
+# 💞️ Publication
+# 📫 Code
+#  Tutorial
 
 <!---
 jinqijinqi/jinqijinqi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
