@@ -13,6 +13,8 @@ competition name:
 
 Rank:
 
+Brief Introduction:
+
 source code:
 
 publication:
