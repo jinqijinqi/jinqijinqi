@@ -1,6 +1,22 @@
 # 👋 This is AIML laboratory in UESTC led by Prof. Jin Qi
 # 👀 Member
+
+Master 2020:
+
+Lingfeng Wang:
+
 # 🌱 Project
+
+# 🌱 Competition/Award:
+
+competition name:
+
+Rank:
+
+source code:
+
+publication:
+
 # 💞️ Publication
 # 📫 Code
 # Tutorial
