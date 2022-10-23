@@ -11,6 +11,10 @@
   
   2. [A Multi-task Mean Teacher for Semi-supervised Facial Affective Behavior
 Analysis(iccv2021)](https://github.com/jinqijinqi/jinqijinqi/blob/main/Wang_A_Multi-Task_Mean_Teacher_for_Semi-Supervised_Facial_Affective_Behavior_Analysis_ICCVW_2021_paper.pdf)
+    
+    more experiments:  five fold cross validation to learn five models, ensemble prediction, class balancing
+    
+    more skills: augmentation, early stopping and learning rate reduction, label smoothing postprocessing
 
      
   
