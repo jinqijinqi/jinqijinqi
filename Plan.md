@@ -25,3 +25,18 @@ Analysis(iccv2021)](https://github.com/jinqijinqi/jinqijinqi/blob/main/Wang_A_Mu
   ## Mola Natnael Fanose、徐烁翔、许智信、陈生阳、谢秋、马博俊、王晶、董哲明、王富臣、童顺
   
   Do presentation (algorithm+experiments) on nuclei segmentation
+  
+  1. [NAS-SCAM: Neural Architecture
+Search-Based Spatial and Channel Joint
+Attention Module for Nuclei Semantic
+Segmentation and Classification(MICCAI2020)](https://github.com/jinqijinqi/jinqijinqi/blob/main/NAS-SCAM.pdf)
+   
+    more experiments: using center+boundary+contour+distance map, overlapping segmentation, level set, five fold cross validation to learn five models, ensemble prediction, 
+    
+    more skills: augmentation, early stopping and learning rate reduction, label smoothing postprocessing
+  
+  2. [Integrating deep convolutional neural networks with marker-controlle d watershe d for overlapping nuclei segmentation in histopathology images(Neurocomputing 2020)](https://github.com/jinqijinqi/jinqijinqi/blob/main/Integrating%20deep%20convolutional%20neural%20networks%20with%20marker-controlled%20watershed%20for%20overlapping%20nuclei%20segmentation%20in%20histopathology%20images.pdf))
+    
+    more experiments: using center+boundary+contour+distance map, level set,  five fold cross validation to learn five models, ensemble prediction, 
+    
+    more skills: augmentation, early stopping and learning rate reduction, label smoothing postprocessing
