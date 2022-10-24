@@ -51,3 +51,30 @@ Segmentation and Classification(MICCAI2020)](https://github.com/jinqijinqi/jinqi
     five fold cross validation to learn five models, ensemble prediction, 
     
     more skills: augmentation, early stopping and learning rate reduction, label smoothing postprocessing
+    
+ 
+  ## 
+  
+  Do presentation (algorithm+experiments) on fingerprint recognition
+  
+  reference paper:
+  
+  1. [A Robust Approach for Singular Point Extraction Based on Complex Polynomial
+Model
+](https://openaccess.thecvf.com/content_cvpr_workshops_2014/W01/papers/Qi_A_Robust_Approach_2014_CVPR_paper.pdf)
+   
+    more experiments: using center+boundary+contour+distance map, overlapping segmentation, 
+    level set, five fold cross validation to learn five models, ensemble prediction, 
+    
+    more skills: augmentation, early stopping and learning rate reduction, label smoothing postprocessing
+  
+  2. [Fingerprint Detaset](https://github.com/robertvazan/fingerprint-datasets)
+  
+  3. [SourceAFIS](https://sourceafis.machinezoo.com/)
+  
+  4. [deep recognition](https://github.com/JinZhuXing/Fingerprint_TF) NIST software
+    
+    more experiments: using center+boundary+contour+distance map, level set, 
+    five fold cross validation to learn five models, ensemble prediction, 
+    
+    more skills: augmentation, early stopping and learning rate reduction, label smoothing postprocessing
