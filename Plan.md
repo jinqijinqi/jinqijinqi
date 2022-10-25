@@ -68,11 +68,18 @@ Model
     
     more skills: augmentation, early stopping and learning rate reduction, label smoothing postprocessing
   
-  2. [Fingerprint Detaset](https://github.com/robertvazan/fingerprint-datasets)
+  2. [Fingerprint Detaset](https://github.com/robertvazan/fingerprint-datasets)[biometric dataset](https://tsapps.nist.gov/BDbC/Search)
   
   3. [SourceAFIS](https://sourceafis.machinezoo.com/)
   
   4. [deep recognition](https://github.com/JinZhuXing/Fingerprint_TF) NIST software
+  
+  6. [Singular points detection with semantic segmentation networks](https://arxiv.org/ftp/arxiv/papers/1911/1911.01106.pdf)
+     [Anil Jain archive paper list](https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0-term=Jain%2C+A&terms-0-field=author&terms-1-operator=AND&terms-1-term=fingerprint&terms-1-field=title&classification-physics_archives=all&classification-include_cross_list=include&date-filter_by=all_dates&date-year=&date-from_date=&date-to_date=&date-date_type=submitted_date&abstracts=show&size=50&order=-announced_date_first)
+     [Learning a Fixed-Length Fingerprint Representation](https://arxiv.org/pdf/1909.09901.pdf)
+  
+  7.[synthetic fingerprint generator(open source)](https://dsl.cds.iisc.ac.in/projects/Anguli/)
+  
     
     more experiments: using center+boundary+contour+distance map, level set, 
     five fold cross validation to learn five models, ensemble prediction, 
