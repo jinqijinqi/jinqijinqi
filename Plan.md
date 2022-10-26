@@ -63,16 +63,22 @@ Segmentation and Classification(MICCAI2020)](https://github.com/jinqijinqi/jinqi
 Model
 ](https://openaccess.thecvf.com/content_cvpr_workshops_2014/W01/papers/Qi_A_Robust_Approach_2014_CVPR_paper.pdf)
    
-    more experiments: using center+boundary+contour+distance map, overlapping segmentation, 
-    level set, five fold cross validation to learn five models, ensemble prediction, 
+    more experiments: using center+boundary+contour+distance map, focus loss and regression loss and BCE losss,
+    class balancing by randomly mask out background pixels,
+     five fold cross validation to learn five models, ensemble prediction, 
     
-    more skills: augmentation, early stopping and learning rate reduction, label smoothing postprocessing
+    more skills: augmentation, early stopping and learning rate reduction
   
-  2. [Fingerprint Detaset](https://github.com/robertvazan/fingerprint-datasets)[biometric dataset](https://tsapps.nist.gov/BDbC/Search)
+  2. [Fingerprint Detaset](https://github.com/robertvazan/fingerprint-datasets)
+     
+     [biometric dataset](https://tsapps.nist.gov/BDbC/Search)
   
   3. [SourceAFIS](https://sourceafis.machinezoo.com/)
   
-  4. [deep recognition](https://github.com/JinZhuXing/Fingerprint_TF) NIST software
+  4. [deep recognition](https://github.com/JinZhuXing/Fingerprint_TF) 
+     
+     [NIST Biometric image software: type classification, minutia detection, quality estimation, matcher]
+     (https://www.nist.gov/services-resources/software/nist-biometric-image-software-nbis)
   
   6. [Singular points detection with semantic segmentation networks](https://arxiv.org/ftp/arxiv/papers/1911/1911.01106.pdf)
      [Anil Jain archive paper list](https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0-term=Jain%2C+A&terms-0-field=author&terms-1-operator=AND&terms-1-term=fingerprint&terms-1-field=title&classification-physics_archives=all&classification-include_cross_list=include&date-filter_by=all_dates&date-year=&date-from_date=&date-to_date=&date-date_type=submitted_date&abstracts=show&size=50&order=-announced_date_first)
@@ -80,8 +86,9 @@ Model
   
   7.[synthetic fingerprint generator(open source)](https://dsl.cds.iisc.ac.in/projects/Anguli/)
   
+     more experiments: multitask fingerprint network(MTFN) for normalization, segmentation, orientation, frequency, enhanced map,
+     thin map, singular point, minutia, class, fixed length feature vector with simulated groundtruth. 
+     five fold cross validation to learn five models, ensemble prediction, 
     
-    more experiments: using center+boundary+contour+distance map, level set, 
-    five fold cross validation to learn five models, ensemble prediction, 
-    
-    more skills: augmentation, early stopping and learning rate reduction, label smoothing postprocessing
+    more skills: augmentation, early stopping and learning rate reduction
+  
