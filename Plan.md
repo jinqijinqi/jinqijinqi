@@ -1,6 +1,6 @@
 # 19:00-21:00, 2022/10/27
 ----------------------
-  ## 王凌锋(presenter) 、黎昊程、黄沿鑫、刘春银、田子稼
+  ## 王凌锋(presenter) 、黎昊程、黄沿鑫、
   do presentation (algorithm+experiments) on facial affective analysis
   
   ### reference paper: 
@@ -20,7 +20,7 @@ Analysis(iccv2021)](https://github.com/jinqijinqi/jinqijinqi/blob/main/Wang_A_Mu
 
      
   
-  ## Deboch Eyob Abera (presenter),陈生阳、曹彤、谢秋, 王晶, 董哲明、马博俊
+  ## Deboch Eyob Abera (presenter),陈生阳、曹彤、 董哲明、马博俊
   
   Do presentation (algorithm+experiments) on visible and infrared image fusion
   
@@ -53,7 +53,7 @@ Segmentation and Classification(MICCAI2020)](https://github.com/jinqijinqi/jinqi
     more skills: augmentation, early stopping and learning rate reduction, label smoothing postprocessing
     
  
-  ## 
+  ## 刘春银、谢秋, 田子稼,王晶
   
   Do presentation (algorithm+experiments) on fingerprint recognition
   
@@ -84,7 +84,7 @@ Model
      [Anil Jain archive paper list](https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0-term=Jain%2C+A&terms-0-field=author&terms-1-operator=AND&terms-1-term=fingerprint&terms-1-field=title&classification-physics_archives=all&classification-include_cross_list=include&date-filter_by=all_dates&date-year=&date-from_date=&date-to_date=&date-date_type=submitted_date&abstracts=show&size=50&order=-announced_date_first)
      [Learning a Fixed-Length Fingerprint Representation](https://arxiv.org/pdf/1909.09901.pdf)
   
-  7.[synthetic fingerprint generator(open source)](https://dsl.cds.iisc.ac.in/projects/Anguli/)
+  7. [synthetic fingerprint generator(open source)](https://dsl.cds.iisc.ac.in/projects/Anguli/)
   
      more experiments: multitask fingerprint network(MTFN) for normalization, segmentation, orientation, frequency, enhanced map,
      thin map, singular point, minutia, class, fixed length feature vector with simulated groundtruth. 
