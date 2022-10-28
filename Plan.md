@@ -1,7 +1,7 @@
-# 19:00-21:00, 2022/10/27
+# 19:00-21:00, 2022/11/3
 ----------------------
   ## 王凌锋(presenter) 、黎昊程、黄沿鑫、
-  do presentation (algorithm+experiments) on facial affective analysis
+  达到或超越前三名
   
   ### reference paper: 
   
@@ -30,7 +30,7 @@ Analysis(iccv2021)](https://github.com/jinqijinqi/jinqijinqi/blob/main/Wang_A_Mu
   
   ## Mola Natnael Fanose(presenter)、徐烁翔、许智信、王富臣、童顺
   
-  Do presentation (algorithm+experiments) on nuclei segmentation
+  show quantitative results on multiple datasets
   
   reference paper:
   
@@ -53,9 +53,9 @@ Segmentation and Classification(MICCAI2020)](https://github.com/jinqijinqi/jinqi
     more skills: augmentation, early stopping and learning rate reduction, label smoothing postprocessing
     
  
-  ## 刘春银、谢秋, 田子稼,王晶
+  ## 刘春银(presenter)、谢秋, 田子稼,王晶
   
-  Do presentation (algorithm+experiments) on fingerprint recognition
+  实现如下论文7中的方法，并展示实验结果
   
   reference paper:
   
@@ -81,10 +81,11 @@ Model
      (https://www.nist.gov/services-resources/software/nist-biometric-image-software-nbis)
   
   6. [Singular points detection with semantic segmentation networks](https://arxiv.org/ftp/arxiv/papers/1911/1911.01106.pdf)
-     [Anil Jain archive paper list](https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0-term=Jain%2C+A&terms-0-field=author&terms-1-operator=AND&terms-1-term=fingerprint&terms-1-field=title&classification-physics_archives=all&classification-include_cross_list=include&date-filter_by=all_dates&date-year=&date-from_date=&date-to_date=&date-date_type=submitted_date&abstracts=show&size=50&order=-announced_date_first)
+  
+  7. [Anil Jain archive paper list](https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0-term=Jain%2C+A&terms-0-field=author&terms-1-operator=AND&terms-1-term=fingerprint&terms-1-field=title&classification-physics_archives=all&classification-include_cross_list=include&date-filter_by=all_dates&date-year=&date-from_date=&date-to_date=&date-date_type=submitted_date&abstracts=show&size=50&order=-announced_date_first)
      [Learning a Fixed-Length Fingerprint Representation](https://arxiv.org/pdf/1909.09901.pdf)
   
-  7. [synthetic fingerprint generator(open source)](https://dsl.cds.iisc.ac.in/projects/Anguli/)
+  8. [synthetic fingerprint generator(open source)](https://dsl.cds.iisc.ac.in/projects/Anguli/)
   
      more experiments: multitask fingerprint network(MTFN) for normalization, segmentation, orientation, frequency, enhanced map,
      thin map, singular point, minutia, class, fixed length feature vector with simulated groundtruth. 
