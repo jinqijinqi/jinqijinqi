@@ -28,7 +28,7 @@ Analysis(iccv2021)](https://github.com/jinqijinqi/jinqijinqi/blob/main/Wang_A_Mu
   
   1. (code and dataset benchmark) [VIFB: A Visible and Infrared Image Fusion Benchmark(CVPR2020)](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w6/Zhang_VIFB_A_Visible_and_Infrared_Image_Fusion_Benchmark_CVPRW_2020_paper.pdf)
   
-  ## Mola Natnael Fanose(presenter)、徐烁翔、许智信、王富臣、童顺
+  ## Mola Natnael Fanose(presenter)、徐烁翔(presenter)、许智信、王富臣、童顺
   
   show quantitative results on multiple datasets
   
@@ -53,7 +53,7 @@ Segmentation and Classification(MICCAI2020)](https://github.com/jinqijinqi/jinqi
     more skills: augmentation, early stopping and learning rate reduction, label smoothing postprocessing
     
  
-  ## 刘春银(presenter)、谢秋, 田子稼,王晶
+  ## 刘春银(presenter)、谢秋, 田子稼,王晶(presenter)
   
   实现如下论文7中的方法，并展示实验结果
   
@@ -80,12 +80,12 @@ Model
      [NIST Biometric image software: type classification, minutia detection, quality estimation, matcher]
      (https://www.nist.gov/services-resources/software/nist-biometric-image-software-nbis)
   
-  6. [Singular points detection with semantic segmentation networks](https://arxiv.org/ftp/arxiv/papers/1911/1911.01106.pdf)
+  5. [Singular points detection with semantic segmentation networks](https://arxiv.org/ftp/arxiv/papers/1911/1911.01106.pdf)
   
-  7. [Anil Jain archive paper list](https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0-term=Jain%2C+A&terms-0-field=author&terms-1-operator=AND&terms-1-term=fingerprint&terms-1-field=title&classification-physics_archives=all&classification-include_cross_list=include&date-filter_by=all_dates&date-year=&date-from_date=&date-to_date=&date-date_type=submitted_date&abstracts=show&size=50&order=-announced_date_first)
+  6. [Anil Jain archive paper list](https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0-term=Jain%2C+A&terms-0-field=author&terms-1-operator=AND&terms-1-term=fingerprint&terms-1-field=title&classification-physics_archives=all&classification-include_cross_list=include&date-filter_by=all_dates&date-year=&date-from_date=&date-to_date=&date-date_type=submitted_date&abstracts=show&size=50&order=-announced_date_first)
      [Learning a Fixed-Length Fingerprint Representation](https://arxiv.org/pdf/1909.09901.pdf)
   
-  8. [synthetic fingerprint generator(open source)](https://dsl.cds.iisc.ac.in/projects/Anguli/)
+  7. [synthetic fingerprint generator(open source)](https://dsl.cds.iisc.ac.in/projects/Anguli/)
   
      more experiments: multitask fingerprint network(MTFN) for normalization, segmentation, orientation, frequency, enhanced map,
      thin map, singular point, minutia, class, fixed length feature vector with simulated groundtruth. 
