@@ -52,6 +52,10 @@ Segmentation and Classification(MICCAI2020)](https://github.com/jinqijinqi/jinqi
     
     more skills: augmentation, early stopping and learning rate reduction, label smoothing postprocessing
     
+   3. 黎昊程: Calibrated Adversarial Refinement for Stochastic Semantic Segmentation (ICCV2021): https://github.com/EliasKassapis/CARSSS
+   
+    nuclei segmentation experiments+ watershed, level set for cluster splitting
+    
  
   ## 刘春银(presenter)、谢秋, 田子稼,王晶(presenter)
   
