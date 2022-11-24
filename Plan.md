@@ -97,3 +97,7 @@ Model
     
     more skills: augmentation, early stopping and learning rate reduction
   
+
+  ## ***(presenter): Neural Architecture Search:
+  
+  Bayesian-Learning-of-Neural-Network-Architectures: https://github.com/antonFJohansson/Bayesian-Learning-of-Neural-Network-Architectures
