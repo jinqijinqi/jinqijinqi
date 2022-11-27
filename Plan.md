@@ -17,6 +17,12 @@ Analysis(iccv2021)](https://github.com/jinqijinqi/jinqijinqi/blob/main/Wang_A_Mu
     more experiments:  five fold cross validation to learn five models, ensemble prediction, class balancing
     
     more skills: augmentation, early stopping and learning rate reduction, label smoothing postprocessing
+    
+  3. [AutoMER: Spatiotemporal Neural Architecture Search for Microexpression Recognition(TNNLS 2022)](https://ieeexplore.ieee.org/document/9411707)
+   
+    skill: extend our transformer in paper 1 to this microexpression recognition with/without NAS
+    
+    dataset: this paper provides 5 dataset for microexpression recognition
 
      
   
