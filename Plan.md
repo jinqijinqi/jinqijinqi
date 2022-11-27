@@ -133,4 +133,6 @@ Model
  1. [Journal of Neural Engineering( median 47 days, Q2)](https://iopscience.iop.org/article/10.1088/1741-2552/aca2de)
    
    example paper: [MRASleepNet: A multi-resolution attention network for sleep stage classification using single-channel EEG](https://iopscience.iop.org/article/10.1088/1741-2552/aca2de)
+   
+ 2. [optics express, median 27 days, Q2](https://opg.optica.org/oe/journal/oe/about.cfm)
  
