@@ -107,8 +107,22 @@ Model
   ## ***(presenter): Neural Architecture Search:
   
   1. [Neural Architecture Search as Sparse Supernet](https://arxiv.org/pdf/2007.16112v1.pdf)
+     
      skill: assign node architecture variable for each node a_n and operation architecture variable o_n for each operation for each node. a_n *o_n is the operation 
      architecture weight for node n and operation o. thus we only need to require element sparse about a_n and o_n rather than group sparse in above paper.
+     
      skill: bayesian version of this paper by using method in the following paper 2 and 3.
+     
+     skill: extend this method for dense connected network and cross resolution (by simple down pooling) dense connected network (especially for unet or resunet)
+     
   2. [Bayesian-Learning-of-Neural-Network-Architectures:]( https://github.com/antonFJohansson/Bayesian-Learning-of-Neural-Network-Architectures)
+     
+     skill: nonbayesian sparse version of this paper for width and depth learning as in paper 1 or DARTS method
+     skill: extend this method for cell search
+     skill: extend this method for dense connected network and cross resolution (by simple down pooling) dense connected network (especially for unet or resunet)
+     
   4. [Bayesian Compression for Deep Learning](https://github.com/KarenUllrich/Tutorial_BayesianCompressionForDL)
+  
+     skill: extend this method for width and depth learning as in paper 2
+     skill: extend this method for cell search as in paper 1
+     skill: extend this method for dense connected network and cross resolution (by simple down pooling) dense connected network (especially for unet or resunet)
