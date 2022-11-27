@@ -107,6 +107,8 @@ Model
   ## ***(presenter): Neural Architecture Search:
   
   1. [Neural Architecture Search as Sparse Supernet](https://arxiv.org/pdf/2007.16112v1.pdf)
+  
+     skill: l0 sparsity version
      
      skill: assign node architecture variable for each node a_n and operation architecture variable o_n for each operation for each node. a_n *o_n is the operation 
      architecture weight for node n and operation o. thus we only need to require element sparse about a_n and o_n rather than group sparse in above paper.
