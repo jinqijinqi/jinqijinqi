@@ -106,4 +106,6 @@ Model
 
   ## ***(presenter): Neural Architecture Search:
   
-  Bayesian-Learning-of-Neural-Network-Architectures: https://github.com/antonFJohansson/Bayesian-Learning-of-Neural-Network-Architectures
+  1. [Neural Architecture Search as Sparse Supernet](https://arxiv.org/pdf/2007.16112v1.pdf)
+  2. [Bayesian-Learning-of-Neural-Network-Architectures:]( https://github.com/antonFJohansson/Bayesian-Learning-of-Neural-Network-Architectures)
+  3. 
