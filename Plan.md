@@ -130,4 +130,4 @@ Model
      skill: extend this method for dense connected network and cross resolution (by simple down pooling) dense connected network (especially for unet or resunet)
      
  ## fast journal
- 1. [Journal of Neural Engineering( median 47 days, Q2](https://iopscience.iop.org/article/10.1088/1741-2552/aca2de)
+ 1. [Journal of Neural Engineering( median 47 days, Q2)](https://iopscience.iop.org/article/10.1088/1741-2552/aca2de)
