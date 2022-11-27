@@ -131,5 +131,6 @@ Model
      
  ## fast journal
  1. [Journal of Neural Engineering( median 47 days, Q2)](https://iopscience.iop.org/article/10.1088/1741-2552/aca2de)
-    example paper: [MRASleepNet: A multi-resolution attention network for sleep stage classification using single-channel EEG](https://iopscience.iop.org/article/10.1088/1741-2552/aca2de)
+   
+   example paper: [MRASleepNet: A multi-resolution attention network for sleep stage classification using single-channel EEG](https://iopscience.iop.org/article/10.1088/1741-2552/aca2de)
  
