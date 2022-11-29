@@ -132,9 +132,13 @@ Model
  ## compressive sensing
  
  1. [dataset (Microwave SAR, MRI):](https://github.com/RosaZheng?tab=repositories )
- 2. Patent: low cost portable single pixel camera
+ 2. Patent: low cost portable single pixel camera with passive illuminance and lensless, refer to paper [A Low-Cost and Portable Single-Pixel Camera](https://ieeexplore.ieee.org/abstract/document/9723132)
      
-     1. 
+     1). system: DMD+photodetector
+     2). DMD: random reflected pattern
+     3) lensless
+     4) passive illuminance
+ 3. 
      
  ## fast journal
  1. [Journal of Neural Engineering( median 47 days, Q2)](https://iopscience.iop.org/article/10.1088/1741-2552/aca2de)
