@@ -132,13 +132,23 @@ Model
  ## compressive sensing
  
  1. [dataset (Microwave SAR, MRI):](https://github.com/RosaZheng?tab=repositories )
+ 
  2. Patent: low cost portable single pixel camera with passive illuminance and lensless, refer to paper [A Low-Cost and Portable Single-Pixel Camera](https://ieeexplore.ieee.org/abstract/document/9723132)
      
      1). system: DMD+photodetector
      2). DMD: random reflected pattern
      3) lensless
      4) passive illuminance
- 3. 
+     
+ 3. compressive sensing+extreme learning machine for efficient data acquisition and inference, refer paper [Deep learning for compressive sensing: a ubiquitous systems
+perspective](https://link.springer.com/article/10.1007/s10462-022-10259-5)
+ 
+ 4. extreme of extreme learning machine, refer to paper [Extreme ensemble of extreme learning machines](https://www.researchgate.net/publication/347611805_Extreme_ensemble_of_extreme_learning_machines)
+ 
+ 5. new data fusion method for information fusion based on the data from [Single-pixel based Data Fusion algorithm for spectral-temporal-spatial reconstruction](https://github.com/jinqijinqi/SinglePixelDataFusion4D)
+ 
+ 
+ 
      
  ## fast journal
  1. [Journal of Neural Engineering( median 47 days, Q2)](https://iopscience.iop.org/article/10.1088/1741-2552/aca2de)
