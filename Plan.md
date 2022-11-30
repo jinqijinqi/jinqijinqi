@@ -62,7 +62,7 @@ Segmentation and Classification(MICCAI2020)](https://github.com/jinqijinqi/jinqi
    
     nuclei segmentation experiments+ watershed, level set for cluster splitting
     
- 
+   4. variational approach for segmentation, refer to [Mumford and Shah Model and its Applications to Image Segmentation and Image Restoration (https://www.math.ucla.edu/~lvese/PAPERS/Springer-Segm-Chapter.pdf)
   ## 刘春银(presenter)、谢秋, 田子稼,王晶(presenter)
   
   实现如下论文7中的方法，并展示实验结果
