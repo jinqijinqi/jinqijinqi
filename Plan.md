@@ -66,7 +66,7 @@ Segmentation and Classification(MICCAI2020)](https://github.com/jinqijinqi/jinqi
      
      skill: 1)learning signed distance directly, convex shape based level set
            
-            2) new distance regularization term: (s^2-1)^2, replace curve length constraint with gradient sparsity constraint
+            2) new distance regularization term: (s^2-1)^2, replace curve length constraint with gradient sparsity constraint, refer [Distance regularization energy terms in level set image segment model: A survey](https://www.sciencedirect.com/science/article/pii/S0925231222003071?ref=pdf_download&fr=RR-2&rr=772a94f3c9b8044a)
             
             3) 0 level set controled level set by constraint with regularization term \int_{init_boundary} (\phi-0)^2 d\phi, where init_boundary is 
                given by some DL method. 
