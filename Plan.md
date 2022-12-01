@@ -63,6 +63,14 @@ Segmentation and Classification(MICCAI2020)](https://github.com/jinqijinqi/jinqi
     nuclei segmentation experiments+ watershed, level set for cluster splitting
     
    4. variational approach for segmentation, refer to [Mumford and Shah Model and its Applications to Image Segmentation and Image Restoration (https://www.math.ucla.edu/~lvese/PAPERS/Springer-Segm-Chapter.pdf)
+     
+     skill: 1)learning signed distance directly, convex shape based level set
+           
+            2) new distance regularization term: (s^2-1)^2, replace curve length constraint with gradient sparsity constraint
+            
+            3) 0 level set controled level set by constraint with regularization term \int_{init_boundary} (\phi-0)^2 d\phi, where init_boundary is 
+               given by some DL method. 
+  
   ## 刘春银(presenter)、谢秋, 田子稼,王晶(presenter)
   
   实现如下论文7中的方法，并展示实验结果
