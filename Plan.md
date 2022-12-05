@@ -157,6 +157,9 @@ perspective](https://link.springer.com/article/10.1007/s10462-022-10259-5)
  4. extreme of extreme learning machine, refer to paper [Extreme ensemble of extreme learning machines](https://www.researchgate.net/publication/347611805_Extreme_ensemble_of_extreme_learning_machines)
  
  5. new data fusion method for information fusion based on the data from [Single-pixel based Data Fusion algorithm for spectral-temporal-spatial reconstruction](https://github.com/jinqijinqi/SinglePixelDataFusion4D)
+
+## reinforcement learning for image enhancement
+1. Underwater Image Enhancement With Reinforcement Learning (2022 with codes)
  
  
  
