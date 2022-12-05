@@ -63,6 +63,7 @@ Segmentation and Classification(MICCAI2020)](https://github.com/jinqijinqi/jinqi
     nuclei segmentation experiments+ watershed, level set for cluster splitting
     
    4. variational approach for segmentation, refer to [Mumford and Shah Model and its Applications to Image Segmentation and Image Restoration (https://www.math.ucla.edu/~lvese/PAPERS/Springer-Segm-Chapter.pdf)
+   [Applied Calculus of Variations for Engineers](http://www.iust.ac.ir/files/fnst/ssadeghzadeh_52bb7/calculus_of_variations.pdf)[Calculus of variations in image processing](https://www.math.u-bordeaux.fr/~jaujol/PAPERS/variational08.pdf)
      
      skill: 1)learning signed distance directly, convex shape based level set
            
@@ -73,6 +74,8 @@ Segmentation and Classification(MICCAI2020)](https://github.com/jinqijinqi/jinqi
             
             4) gpu implementation of level set for paper ["An Efficient Algorithm for Level Set Method](https://apps.dtic.mil/sti/pdfs/ADA557314.pdf)
 Preserving Distance Function
+     
+            5) extend our simultaneous compressive and deblur model 
   
   ## 刘春银(presenter)、谢秋, 田子稼,王晶(presenter)
   
