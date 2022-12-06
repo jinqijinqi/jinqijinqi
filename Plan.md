@@ -64,6 +64,7 @@ Segmentation and Classification(MICCAI2020)](https://github.com/jinqijinqi/jinqi
     
    4. variational approach for segmentation, refer to [Mumford and Shah Model and its Applications to Image Segmentation and Image Restoration (https://www.math.ucla.edu/~lvese/PAPERS/Springer-Segm-Chapter.pdf)
    [Applied Calculus of Variations for Engineers](http://www.iust.ac.ir/files/fnst/ssadeghzadeh_52bb7/calculus_of_variations.pdf)[Calculus of variations in image processing](https://www.math.u-bordeaux.fr/~jaujol/PAPERS/variational08.pdf)
+   [The Calculus of Variations](https://www-users.cse.umn.edu/~jwcalder/CalculusOfVariations.pdf)
      
      skill: 1)learning signed distance directly, convex shape based level set
            
