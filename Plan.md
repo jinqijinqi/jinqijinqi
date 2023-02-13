@@ -176,3 +176,7 @@ perspective](https://link.springer.com/article/10.1007/s10462-022-10259-5)
  2. [optics express, median 27 days, Q2](https://opg.optica.org/oe/journal/oe/about.cfm)
  
 ## Ai video surveillance platform (租云服务器作为主机，搭建基于WebRTC的监控平台）
+  1. [vidgear: video processing platform (python)](https://github.com/abhiTronix/vidgear)
+  2. [Private Home Surveillance with the WebRTC DataChannel (Ivelin Ivanov)](https://webrtchacks.com/private-home-surveillance-with-the-webrtc-datachannel/)
+  3. [nginx-http-flv-module: media streaming server](https://github.com/winshining/nginx-http-flv-module)
+  4. [使用WebRTC广播IP摄像头视频流](https://blog.csdn.net/biaobro/article/details/64129620?spm=1001.2101.3001.6650.14&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7ERate-14-64129620-blog-89626766.pc_relevant_3mothn_strategy_recovery&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7ERate-14-64129620-blog-89626766.pc_relevant_3mothn_strategy_recovery&utm_relevant_index=15)
