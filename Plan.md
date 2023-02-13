@@ -175,3 +175,4 @@ perspective](https://link.springer.com/article/10.1007/s10462-022-10259-5)
    
  2. [optics express, median 27 days, Q2](https://opg.optica.org/oe/journal/oe/about.cfm)
  
+## Ai video surveillance platform (租云服务器作为主机，搭建基于WebRTC的监控平台）
