@@ -163,7 +163,10 @@ perspective](https://link.springer.com/article/10.1007/s10462-022-10259-5)
  5. new data fusion method for information fusion based on the data from [Single-pixel based Data Fusion algorithm for spectral-temporal-spatial reconstruction](https://github.com/jinqijinqi/SinglePixelDataFusion4D)
  
 ## Bilinear imaging/signal  model
-1. compressive sensing + deconvolution: ''' $$y=\Phi h*x+n $$''' 
+1. compressive sensing + deconvolution: 
+   ''' 
+   $$y=\Phi h*x+n $$
+   ''' 
 
 ## reinforcement learning for image enhancement
 1. Underwater Image Enhancement With Reinforcement Learning (2022 with codes)
