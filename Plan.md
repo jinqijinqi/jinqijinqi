@@ -183,8 +183,10 @@ perspective](https://link.springer.com/article/10.1007/s10462-022-10259-5)
   5. [Get started with WebRTC](https://web.dev/webrtc-basics/)
   6. 5G 和Wifi6无线组网WebRTC监控平台：结合2中的方法，用wifi6 路由器连接本地多个摄像头，然后用5G网关连接互联网，用WEBRTC 通信，做到无布线。
 
-## AI model deployment 
-1. [streamlit: simple and free](https://streamlit.io/)
+## AI model deployment (all student projects required to deploy here)
+1. [streamlit: simple and free and can be deployed in local server (nginx inverse proxy for intranet)](https://streamlit.io/);
+2. [webrtc and deployment example (classification and detection and media stream with webcam](https://github.com/whitphx/streamlit-webrtc-example)
+   
   
 ## hardware seller
 1. [waveshare electronics](https://www.waveshare.net/cattree.html)
