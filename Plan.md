@@ -167,6 +167,12 @@ perspective](https://link.springer.com/article/10.1007/s10462-022-10259-5)
    ''' 
    $$y=\Phi h*x+n $$
    ''' 
+   1) h given, using bayesian method (sparse Bayes(type II maximum likelyhood), variational bayes, EM method, time and frequency domain, unrolled method)
+   2) h not given, using bayesian blind deconvolution (EM method, variational method, constant h or random h, time and frequency domain, unrolled method):
+      a) convolution matrix H is represented by linear model 
+      '''
+      $$ H=\sum_{m=1}^M h_m S_m $$
+      '''
 
 ## reinforcement learning for image enhancement
 1. Underwater Image Enhancement With Reinforcement Learning (2022 with codes)
