@@ -167,12 +167,27 @@ perspective](https://link.springer.com/article/10.1007/s10462-022-10259-5)
    ''' 
    $$y=\Phi h*x+n $$
    ''' 
+   # tranditional non bayesian (energy method)
+   
+   # Bayesian method
    1) h given, using bayesian method (sparse Bayes(type II maximum likelyhood), variational bayes, EM method, time and frequency domain, unrolled method)
    2) h not given, using bayesian blind deconvolution (EM method, variational method, constant h or random h, time and frequency domain, unrolled method):
       a) convolution matrix H is represented by linear model 
       '''
-      $$ H=\sum_{m=1}^M h_m S_m $$
+      $$H=\sum_{m=1}^M h_m S_m $$
       '''
+      refer to [1. Unrolled Variational Bayesian Algorithm for Image
+Blind Deconvolution (code)](https://github.com/yunshihuang/unfoldedVBA)
+
+      b) to using existing blind bayesian deconvolution method, we propose a new model which separate unkown h and x from compressive sensing:
+      '''
+      $$y=\Phi z+n, z=h*x $$
+      '''
+       
+       refer to [2. Variational Bayesian Blind Color Deconvolution of
+Histopathological Images
+ (code)](https://ivpl.northwestern.edu/wp-content/uploads/2021/06/Variational-Bayesian-Blind-Color-Deconvolution-of-Histopathological-Images-compressed_compressed_compressed.pdf))
+      
 
 ## reinforcement learning for image enhancement
 1. Underwater Image Enhancement With Reinforcement Learning (2022 with codes)
