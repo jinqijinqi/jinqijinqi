@@ -163,13 +163,16 @@ perspective](https://link.springer.com/article/10.1007/s10462-022-10259-5)
  5. new data fusion method for information fusion based on the data from [Single-pixel based Data Fusion algorithm for spectral-temporal-spatial reconstruction](https://github.com/jinqijinqi/SinglePixelDataFusion4D)
  
 ## Bilinear imaging/signal  model
-1. compressive sensing + deconvolution: 
+   ''' 
+   $$y=\Phi_1 \Phi_2 *x+n $$
+   ''' 
+1. compressive sensing + deconvolution，superresolution+deconvolution, imageinpainting+deconvolution, compressive sening+imageinpainting, etc.
    ''' 
    $$y=\Phi h*x+n $$
    ''' 
-   # tranditional non bayesian (energy method)
+   ### i) tranditional non bayesian (energy method)
    
-   # Bayesian method
+   ### ii) Bayesian method
    1) h given, using bayesian method (sparse Bayes(type II maximum likelyhood), variational bayes, EM method, time and frequency domain, unrolled method)
    2) h not given, using bayesian blind deconvolution (EM method, variational method, constant h or random h, time and frequency domain, unrolled method):
       a) convolution matrix H is represented by linear model 
