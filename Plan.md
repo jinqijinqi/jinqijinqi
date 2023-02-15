@@ -189,6 +189,12 @@ Blind Deconvolution (code)](https://github.com/yunshihuang/unfoldedVBA)
       '''
       refer to [2. Variational Bayesian Blind Color Deconvolution of Histopathological Images(code)](https://github.com/vipgugr/BCDSAR)
       [3.A VARIATIONAL APPROACH FOR BAYESIAN BLIND IMAGE DECONVOLUTION( frequency implementation and 3 methods](http://www.ssp.ece.upatras.gr/galatsanos/PAPERS/IPL_papers/T-SP04.pdf)
+      [4.FREQUENCY DOMAIN BLIND DECONVOLUTION IN MULTIFRAME IMAGING USING ANISOTROPIC SPATIALLY-ADAPTIVE DENOISING( frequency implementation)](https://webpages.tuni.fi/lasip/papers/EUSIPCO2006-FrequencyDomainBlindDeconvolutionInMultiframeImaging.pdf)
+      [5.VBLab (matlab package for Varational Bayesian](https://vbayeslab.github.io/VBLabDocs/)
+      [6. pyro: probability and deep learning](http://pyro.ai/)
+      [7. numerical tour: code template](https://www.numerical-tours.com/matlab/#inverse)
+      [8. Image identification and restoration based on the expectation-maximization algorithm: frequency domain, EM, type II](https://ivpl.northwestern.edu/wp-content/uploads/2019/02/1990_optical.pdf)
+      [9. Revisiting Bayesian Blind Deconvolution: EM, type II](https://jmlr.org/papers/volume15/wipf14a/wipf14a.pdf)
       
 
 ## reinforcement learning for image enhancement
