@@ -220,6 +220,7 @@ to Parameter, Image, and Blur Estimation](https://ivpl.northwestern.edu/wp-conte
       [16. Bayesian Blind Deconvolution with
 General Sparse Image Priors: code ](http://www.dbabacan.info/software.html)
       
+      
 
 ## reinforcement learning for image enhancement
 1. Underwater Image Enhancement With Reinforcement Learning (2022 with codes)
@@ -246,11 +247,19 @@ General Sparse Image Priors: code ](http://www.dbabacan.info/software.html)
 ## AI model deployment (all student projects required to deploy here)
 1. [streamlit: simple and free and can be deployed in local server (nginx inverse proxy for intranet)](https://streamlit.io/);
 2. [webrtc and deployment example (classification and detection and media stream with webcam](https://github.com/whitphx/streamlit-webrtc-example)
+3. Lab website in streamlit cloud or rent cloud server
    
   
 ## hardware seller
 1. [waveshare electronics](https://www.waveshare.net/cattree.html)
 
+## software reference
+1. Variational Bayesian method: 1) [babacan] (http://www.dbabacan.info/software.html); 2) [Molina](https://ccia.ugr.es/vip/software.html)
+   3)[VBLab (matlab package for Varational Bayesian](https://vbayeslab.github.io/VBLabDocs/)
+      
+2. [pyro: probability and deep learning](http://pyro.ai/)
+      
+3. [numerical tour](https://www.numerical-tours.com/matlab/#inverse)
 
 ## matrix factorization and its application to noise remove, background and foreground separation
 1. low rank matrix factorization
@@ -259,6 +268,7 @@ General Sparse Image Priors: code ](http://www.dbabacan.info/software.html)
 ## ground penetrating radar
 1. [basic principle](https://gpg.geosci.xyz/content/GPR/index.html)
 2. matrix factorization for high-way crack picture noise remove and enhancement
+
 
 ## collaborator
 [S. Derin Babacan](http://www.dbabacan.info/software.html)
