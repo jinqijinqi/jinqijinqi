@@ -188,13 +188,32 @@ Blind Deconvolution (code)](https://github.com/yunshihuang/unfoldedVBA)
       $$y=\Phi z+n, z=h*x $$
       '''
       refer to [2. Variational Bayesian Blind Color Deconvolution of Histopathological Images(code)](https://github.com/vipgugr/BCDSAR)
+      
       [3.A VARIATIONAL APPROACH FOR BAYESIAN BLIND IMAGE DECONVOLUTION( frequency implementation and 3 methods](http://www.ssp.ece.upatras.gr/galatsanos/PAPERS/IPL_papers/T-SP04.pdf)
+      
       [4.FREQUENCY DOMAIN BLIND DECONVOLUTION IN MULTIFRAME IMAGING USING ANISOTROPIC SPATIALLY-ADAPTIVE DENOISING( frequency implementation)](https://webpages.tuni.fi/lasip/papers/EUSIPCO2006-FrequencyDomainBlindDeconvolutionInMultiframeImaging.pdf)
+      
       [5.VBLab (matlab package for Varational Bayesian](https://vbayeslab.github.io/VBLabDocs/)
+      
       [6. pyro: probability and deep learning](http://pyro.ai/)
+      
       [7. numerical tour: code template](https://www.numerical-tours.com/matlab/#inverse)
+      
       [8. Image identification and restoration based on the expectation-maximization algorithm: frequency domain, EM, type II](https://ivpl.northwestern.edu/wp-content/uploads/2019/02/1990_optical.pdf)
+      
       [9. Revisiting Bayesian Blind Deconvolution: EM, type II](https://jmlr.org/papers/volume15/wipf14a/wipf14a.pdf)
+      
+      [10. Maximum Likelihood Blur Identification and Image Restoration Using the EM Algorithm: frequency domain](https://www.researchgate.net/publication/3314072_Maximum_Likelihood_Blur_Identification_and_Image_Restoration_Using_the_EM_Algorithm#fullTextFileContent)
+      
+      [11. Bayesian Sparse Blind Deconvolution Using MCMC
+Methods Based on Normal-Inverse-Gamma Prior: sparse deconvolution, substitute sampling method to general VB](https://arxiv.org/pdf/2108.12398v1.pdf)
+   
+      [12. Blind Deconvolution Using a Variational Approach
+to Parameter, Image, and Blur Estimation](https://ivpl.northwestern.edu/wp-content/uploads/2019/02/BDC-2006.pdf)
+
+      [13. Covariance-Free Sparse Bayesian Learning: covariance free faster implementation](https://arxiv.org/pdf/2105.10439.pdf)
+      
+      [14. Variational Bayesian Blind Image Deconvolution: A review](https://www.sciencedirect.com/science/article/pii/S105120041500144X?fr=RR-2&ref=pdf_download&rr=799310902a8396cf)
       
 
 ## reinforcement learning for image enhancement
