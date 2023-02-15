@@ -187,10 +187,8 @@ Blind Deconvolution (code)](https://github.com/yunshihuang/unfoldedVBA)
       '''
       $$y=\Phi z+n, z=h*x $$
       '''
-       
-       refer to [2. Variational Bayesian Blind Color Deconvolution of
-Histopathological Images
- (code)](https://ivpl.northwestern.edu/wp-content/uploads/2021/06/Variational-Bayesian-Blind-Color-Deconvolution-of-Histopathological-Images-compressed_compressed_compressed.pdf)
+      refer to [2. Variational Bayesian Blind Color Deconvolution of Histopathological Images(code)](https://github.com/vipgugr/BCDSAR)
+      [3.A VARIATIONAL APPROACH FOR BAYESIAN BLIND IMAGE DECONVOLUTION( frequency implementation and 3 methods](http://www.ssp.ece.upatras.gr/galatsanos/PAPERS/IPL_papers/T-SP04.pdf)
       
 
 ## reinforcement learning for image enhancement
@@ -222,3 +220,6 @@ Histopathological Images
   
 ## hardware seller
 1. [waveshare electronics](https://www.waveshare.net/cattree.html)
+
+## ground penetrating radar
+1. [basic principle](https://gpg.geosci.xyz/content/GPR/index.html)
