@@ -166,7 +166,7 @@ perspective](https://link.springer.com/article/10.1007/s10462-022-10259-5)
    ''' 
    $$y=\Phi_1 \Phi_2 *x+n $$
    ''' 
-1. compressive sensing + deconvolution，superresolution+deconvolution, imageinpainting+deconvolution, compressive sening+imageinpainting, etc.
+1. compressive sensing + deconvolution，superresolution+deconvolution, imageinpainting+deconvolution, compressive sening+imageinpainting, matrix factorization, PCA, Low rank matrix factorization,SVD etc.
    ''' 
    $$y=\Phi h*x+n $$
    ''' 
@@ -215,6 +215,11 @@ to Parameter, Image, and Blur Estimation](https://ivpl.northwestern.edu/wp-conte
       
       [14. Variational Bayesian Blind Image Deconvolution: A review](https://www.sciencedirect.com/science/article/pii/S105120041500144X?fr=RR-2&ref=pdf_download&rr=799310902a8396cf)
       
+      [15. Sparse Bayesian blind image deconvolution with parameter estimation](https://jivp-eurasipjournals.springeropen.com/articles/10.1186/1687-5281-2012-20)
+      
+      [16. Bayesian Blind Deconvolution with
+General Sparse Image Priors: code ](https://minhdo.ece.illinois.edu/publications/Babacan_ECCV_2012.pdf)
+      
 
 ## reinforcement learning for image enhancement
 1. Underwater Image Enhancement With Reinforcement Learning (2022 with codes)
@@ -245,6 +250,11 @@ to Parameter, Image, and Blur Estimation](https://ivpl.northwestern.edu/wp-conte
   
 ## hardware seller
 1. [waveshare electronics](https://www.waveshare.net/cattree.html)
+
+
+## matrix factorization and its application to noise remove, background and foreground separation
+1. low rank matrix factorization
+2. 
 
 ## ground penetrating radar
 1. [basic principle](https://gpg.geosci.xyz/content/GPR/index.html)
