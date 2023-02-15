@@ -219,6 +219,11 @@ to Parameter, Image, and Blur Estimation](https://ivpl.northwestern.edu/wp-conte
       
       [16. Bayesian Blind Deconvolution with
 General Sparse Image Priors: code ](http://www.dbabacan.info/software.html)
+
+      [17. Fast Bayesian blind deconvolution with Huber Super Gaussian priors: frequency domain](https://www.sciencedirect.com/science/article/pii/S1051200416301245?via%3Dihub)
+      
+      18. Variational Bayesian software: 1) [babacan] (http://www.dbabacan.info/software.html); 2) [Molina](https://ccia.ugr.es/vip/software.html)
+   3)[VBLab (matlab package for Varational Bayesian](https://vbayeslab.github.io/VBLabDocs/)
       
       
 
