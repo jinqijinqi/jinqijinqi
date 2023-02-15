@@ -218,7 +218,7 @@ to Parameter, Image, and Blur Estimation](https://ivpl.northwestern.edu/wp-conte
       [15. Sparse Bayesian blind image deconvolution with parameter estimation](https://jivp-eurasipjournals.springeropen.com/articles/10.1186/1687-5281-2012-20)
       
       [16. Bayesian Blind Deconvolution with
-General Sparse Image Priors: code ](https://minhdo.ece.illinois.edu/publications/Babacan_ECCV_2012.pdf)
+General Sparse Image Priors: code ](http://www.dbabacan.info/software.html)
       
 
 ## reinforcement learning for image enhancement
@@ -258,3 +258,8 @@ General Sparse Image Priors: code ](https://minhdo.ece.illinois.edu/publications
 
 ## ground penetrating radar
 1. [basic principle](https://gpg.geosci.xyz/content/GPR/index.html)
+2. matrix factorization for high-way crack picture noise remove and enhancement
+
+## collaborator
+[S. Derin Babacan](http://www.dbabacan.info/software.html)
+[Rafael Molina](https://ccia.ugr.es/vip/software.html)
