@@ -162,7 +162,7 @@ perspective](https://link.springer.com/article/10.1007/s10462-022-10259-5)
  
  5. new data fusion method for information fusion based on the data from [Single-pixel based Data Fusion algorithm for spectral-temporal-spatial reconstruction](https://github.com/jinqijinqi/SinglePixelDataFusion4D)
  
-## Bilinear imaging/signal  model
+## Bilinear (inverse) imaging/signal  model
    ''' 
    $$y=\Phi_1 \Phi_2 *x+n $$
    ''' 
@@ -224,6 +224,23 @@ General Sparse Image Priors: code ](http://www.dbabacan.info/software.html)
       
       18. Variational Bayesian software: 1) [babacan] (http://www.dbabacan.info/software.html); 2) [Molina](https://ccia.ugr.es/vip/software.html)
    3)[VBLab (matlab package for Varational Bayesian](https://vbayeslab.github.io/VBLabDocs/)
+     
+      19. extend hyperparameter estimation by MAP or TypeII for spatially independent hyperparameter(signal sparse or noise sparse): for example
+        ''' 
+   $$y=\Phi_1 \Phi_2 *x+n, n\approx N(0,Diag(\Sigma)), x\approx N(0, G^T*Diag(\Delta)G) $$
+   
+   estimate $$\Sigma,\Delta$$ vectors
+   ''' 
+       
+        [Maximum likelihood estimation of regularisation
+parameters in high-dimensional inverse problems: an
+empirical Bayesian approach
+Part II: Theoretical Analysis](https://arxiv.org/pdf/2008.05793.pdf); [Maximum likelihood estimation of regularisation parameters
+in high-dimensional inverse problems: an empirical Bayesian
+approach
+Part I: Methodology and Experiments](https://arxiv.org/pdf/1911.11709.pdf); [Maximum likelihood estimation of regularisation parameters in
+high-dimensional inverse problems: an empirical Bayesian
+approach](https://arxiv.org/pdf/1911.11709v1.pdf)
       
       
 
