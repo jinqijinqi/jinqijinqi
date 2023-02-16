@@ -222,23 +222,20 @@ General Sparse Image Priors: code ](http://www.dbabacan.info/software.html)
 
       [17. Fast Bayesian blind deconvolution with Huber Super Gaussian priors: frequency domain](https://www.sciencedirect.com/science/article/pii/S1051200416301245?via%3Dihub)
       
-      18. Variational Bayesian software: 1) [babacan] (http://www.dbabacan.info/software.html); 2) [Molina](https://ccia.ugr.es/vip/software.html)
-   3)[VBLab (matlab package for Varational Bayesian](https://vbayeslab.github.io/VBLabDocs/)
+      18 Variational Bayesian software: 
+       1) [babacan](http://www.dbabacan.info/software.html)
+       2) [Molina](https://ccia.ugr.es/vip/software.html)
+       3) [VBLab (matlab package for Varational Bayesian)](https://vbayeslab.github.io/VBLabDocs/)
      
-      19. extend hyperparameter estimation by MAP or TypeII for spatially independent hyperparameter(signal sparse or noise sparse): for example
+      19 extend hyperparameter estimation by MAP or TypeII for spatially independent hyperparameter(signal sparse or noise sparse): for example
         ''' 
-   $$y=\Phi_1 \Phi_2 *x+n, n\approx N(0,Diag(\Sigma)), x\approx N(0, G^T*Diag(\Delta)G) $$
-   
-   estimate $$\Sigma,\Delta$$ vectors
-   ''' 
-       
-        [Maximum likelihood estimation of regularisation
-parameters in high-dimensional inverse problems: an
-empirical Bayesian approach
-Part II: Theoretical Analysis](https://arxiv.org/pdf/2008.05793.pdf); [Maximum likelihood estimation of regularisation parameters
-in high-dimensional inverse problems: an empirical Bayesian
-approach
-Part I: Methodology and Experiments](https://arxiv.org/pdf/1911.11709.pdf); [Maximum likelihood estimation of regularisation parameters in
+        $$y=\Phi_1 \Phi_2 *x+n, n \approx N(0,Diag(\sigma)), x \approx  N(0, G^T *Diag(\delta)G)$$  
+        ''' 
+        estimate noise and signal parameter $\sigma,\delta$ vectors
+        
+   [Maximum likelihood estimation of regularisation parameters Part II Theoretical Analysis](https://arxiv.org/pdf/2008.05793.pdf);     
+   [Maximum likelihood estimation of regularisation parameters Part I Methodology and Experiments](https://arxiv.org/pdf/1911.11709.pdf);
+[Maximum likelihood estimation of regularisation parameters in
 high-dimensional inverse problems: an empirical Bayesian
 approach](https://arxiv.org/pdf/1911.11709v1.pdf)
       
