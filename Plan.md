@@ -289,6 +289,10 @@ approach](https://arxiv.org/pdf/1911.11709v1.pdf)
 1. [basic principle](https://gpg.geosci.xyz/content/GPR/index.html)
 2. matrix factorization for high-way crack picture noise remove and enhancement
 
+## patent
+1. 小型轻量化无人驾驶路面金属自动收集车设计
+  参考日本专利：[1. Metal piece removal apparatus for cleaning vehicle that removes metal pieces scattered on the road](http://www-webofscience-com-s.vpn.uestc.edu.cn:8118/wos/alldb/summary/8d6c3f0e-07fc-4777-b85f-7217903ed9b0-7161dab1/relevance/1) [2. Vehicle for collecting metal pieces scattered on road, floor surface has catch flap, provided in metal piece collector, which prevents metal pieces from dropping once these pieces are adsorbed by magnet of metal piece collector](http://www-webofscience-com-s.vpn.uestc.edu.cn:8118/wos/alldb/summary/8d6c3f0e-07fc-4777-b85f-7217903ed9b0-7161dab1/relevance/1)
+
 
 ## collaborator
 [S. Derin Babacan](http://www.dbabacan.info/software.html)
