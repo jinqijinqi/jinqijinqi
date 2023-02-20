@@ -238,6 +238,8 @@ General Sparse Image Priors: code ](http://www.dbabacan.info/software.html)
 [Maximum likelihood estimation of regularisation parameters in
 high-dimensional inverse problems: an empirical Bayesian
 approach](https://arxiv.org/pdf/1911.11709v1.pdf)
+       20. Bayesian Classifier with class label treated as real number (class index is treated as normal distribution): we extend the following active bayesian classifier to multiple class clasifier with high dimention normal distribtution and for other application (such as medical image, detection, segmentation, classification), please refer to ["Bayesian Active Remote Sensing Image
+Classification"](https://ccia.ugr.es/vip/resources/BAL.html)
       
       
 
