@@ -240,6 +240,7 @@ high-dimensional inverse problems: an empirical Bayesian
 approach](https://arxiv.org/pdf/1911.11709v1.pdf)
        20. Bayesian Classifier with class label treated as real number (class index is treated as normal distribution): we extend the following active bayesian classifier to multiple class clasifier with high dimention normal distribtution and for other application (such as medical image, detection, segmentation, classification), we use deep learning (or multiscale gabor filters) for feature extraction and logistic regression for active learning, please refer to ["Bayesian Active Remote Sensing Image
 Classification"](https://ccia.ugr.es/vip/resources/BAL.html)
+      21. a fast simple object instance detection method with boundary and center marker and background learning and marker based watershed and object verify: 1) use semantic segmentation to obtain foreground marker and background and boundary map; 2) thinning background to obtain background marker; 3) use boundary score map as segmentation map with local minimum constraint in foreground marker and background marker position; use marker based watershed to obtain instance objects; 4) for each instance object, using network to verify it is true or false object.  
       
       
 
