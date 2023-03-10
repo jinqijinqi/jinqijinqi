@@ -77,6 +77,7 @@ Segmentation and Classification(MICCAI2020)](https://github.com/jinqijinqi/jinqi
 Preserving Distance Function
      
             5) extend our simultaneous compressive and deblur model 
+  5. deep segmentation with uncertainty: 1) using [selfsecure network (SCN)](https://github.com/kaiwang960112/Self-Cure-Network) to suppress uncertainty from edge pixels for faster convergence and obtain edge uncertain pixels corresponding large uncertainty. 2)this uncertainty map can be used as the segmentation map in watershed.
   
   ## 刘春银(presenter)、谢秋, 田子稼,王晶(presenter)
   
