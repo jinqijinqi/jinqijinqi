@@ -1,3 +1,9 @@
+#News
+## AI model deployment and Lab Website (all student projects required to deploy here)
+1. [webrtc and deployment example- live stream template (classification and detection and media stream with webcam](https://github.com/whitphx/streamlit-webrtc-example) （现场摄像头支持）
+2. [Eagle Vision for stuent project template static image case -project organization]https://github.com/Joshmantova/Eagle-Vision (所有学生参考这个组织自己的项目，主要包含训练源码和streamlit 展示代码，训练数据要在readme中指明可下载的地方，可以是自己的网盘或其它地方）
+
+
 # 19:00-21:00, 2022/11/3
 ----------------------
   ## 王凌锋(presenter) 、黎昊程、黄沿鑫、
@@ -270,9 +276,10 @@ Classification"](https://ccia.ugr.es/vip/resources/BAL.html)
 
 ## AI model deployment and Lab Website (all student projects required to deploy here)
 1. [streamlit: simple and free and can be deployed in local server (nginx inverse proxy for intranet)](https://streamlit.io/);
-2. [webrtc and deployment example (classification and detection and media stream with webcam](https://github.com/whitphx/streamlit-webrtc-example)
-3. Lab website in streamlit cloud or rent cloud server
-4. [github Lab website template](https://zhuanlan.zhihu.com/p/370549865)
+2. [webrtc and deployment example- live stream template (classification and detection and media stream with webcam](https://github.com/whitphx/streamlit-webrtc-example) （现场摄像头支持）
+3. [Eagle Vision for stuent project template static image case -project organization]https://github.com/Joshmantova/Eagle-Vision (所有学生参考这个组织自己的项目，主要包含训练源码和streamlit 展示代码，训练数据要在readme中指明可下载的地方，可以是自己的网盘或其它地方）
+4. Lab website in streamlit cloud or rent cloud server
+5. [github Lab website template](https://zhuanlan.zhihu.com/p/370549865)
    
   
 ## hardware seller
