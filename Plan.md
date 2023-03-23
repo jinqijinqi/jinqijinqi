@@ -178,6 +178,9 @@ perspective](https://link.springer.com/article/10.1007/s10462-022-10259-5)
    $$y=\Phi h*x+n $$
    ''' 
    ### i) tranditional non bayesian (energy method)
+    1) [Deconvolution using natural image priors (code for spatial and frequency domain)](Deconvolution using natural image priors)
+    2) unrolled method with neural network: 1) [CDLNet: Noise-Adaptive Convolutional Dictionary Learning Network for Blind Denoising and Demosaicing](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9769957); 2)[Gabor is Enough: Interpretable Deep Denoising
+with a Gabor Synthesis Dictionary Prior](https://arxiv.org/pdf/2204.11146.pdf)
    
    ### ii) Bayesian method
    1) h given, using bayesian method (sparse Bayes(type II maximum likelyhood), variational bayes, EM method, time and frequency domain, unrolled method)
@@ -255,7 +258,10 @@ Classification"](https://ccia.ugr.es/vip/resources/BAL.html)
 ## reinforcement learning for image enhancement
 1. Underwater Image Enhancement With Reinforcement Learning (2022 with codes)
  
- 
+## image transform + deep learning
+1. gabor filters + 1by1 filters: 通道用Gabor filter, 混合用1by1 to reduce #parameters
+2. wavelet transform for encoder + deep learning for decoder: 用小波编码图像，用深度学习解码，类似于Unet.(多尺度图像分析）
+3. gabor net
  
      
  ## fast journal
