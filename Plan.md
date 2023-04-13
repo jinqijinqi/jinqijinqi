@@ -3,6 +3,12 @@
 1. [webrtc and deployment example- live stream template (classification and detection and media stream with webcam](https://github.com/whitphx/streamlit-webrtc-example) （现场摄像头支持）
 2. [Eagle Vision for stuent project template static image case -project organization]https://github.com/Joshmantova/Eagle-Vision (所有学生参考这个组织自己的项目，主要包含训练源码和streamlit 展示代码，训练数据要在readme中指明可下载的地方，可以是自己的网盘或其它地方）
 
+# 2023
+--------------------------------
+  ## S M SOLAYMAN HOSSEN ROKIB 
+     task: develop road crack detection system
+   1. [DeepCrack: Learning Hierarchical Convolutional Features for Crack Detection, IEEE Transactions on Image Processing 2019 (code and dataset)](https://github.com/qinnzou/DeepCrack) 
+     
 
 # 19:00-21:00, 2022/11/3
 ----------------------
