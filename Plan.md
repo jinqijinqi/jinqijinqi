@@ -1,7 +1,10 @@
-#News
+
 ## AI model deployment and Lab Website (all student projects required to deploy here)
 1. [webrtc and deployment example- live stream template (classification and detection and media stream with webcam](https://github.com/whitphx/streamlit-webrtc-example) （现场摄像头支持）
 2. [Eagle Vision for stuent project template static image case -project organization]https://github.com/Joshmantova/Eagle-Vision (所有学生参考这个组织自己的项目，主要包含训练源码和streamlit 展示代码，训练数据要在readme中指明可下载的地方，可以是自己的网盘或其它地方）
+
+# General Training Idea: 
+with data augment, learning rate is reduced slowly based on training loss rather than valid/test loss since initial test/valid loss could be much lower than training loss
 
 # 2023
 --------------------------------
@@ -285,6 +288,7 @@ Classification"](https://ccia.ugr.es/vip/resources/BAL.html)
   5. [Get started with WebRTC](https://web.dev/webrtc-basics/)
   6. 5G 和Wifi6无线组网WebRTC监控平台：结合2中的方法，用wifi6 路由器连接本地多个摄像头，然后用5G网关连接互联网，用WEBRTC 通信，做到无布线。
   7. [red5 media server: Live video streaming solved. Broadcast video to millions in under 500 milliseconds](https://github.com/Red5/red5-server)
+  8. [python aiortc for webrtc and ortc](https://github.com/aiortc/aiortc) 
 
 ## AI model deployment and Lab Website (all student projects required to deploy here)
 1. [streamlit: simple and free and can be deployed in local server (nginx inverse proxy for intranet)](https://streamlit.io/);
