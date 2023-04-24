@@ -18,7 +18,7 @@ with data augment, learning rate is reduced slowly based on training loss rather
 # 19:00-21:00, 2022/11/3
 ----------------------
 ## 黄沿鑫，曹彤
-BSG: vision transformer for segmentation
+BSG: vision transformer for segmentation+ level set for postprocessing the result 
  1. [A Cascaded Deep Convolutional Neural Networkfor Joint Segmentation and Genotype Prediction of Brainstem Gliomas (TBME 2018)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8375811)
 
 
