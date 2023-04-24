@@ -4,7 +4,9 @@
 2. [Eagle Vision for stuent project template static image case -project organization]https://github.com/Joshmantova/Eagle-Vision (所有学生参考这个组织自己的项目，主要包含训练源码和streamlit 展示代码，训练数据要在readme中指明可下载的地方，可以是自己的网盘或其它地方）
 
 # General Training Idea: 
-with data augment, learning rate is reduced slowly based on training loss rather than valid/test loss since initial test/valid loss could be much lower than training loss
+with data augment, learning rate is reduced slowly based on training loss rather than valid/test loss since initial test/valid loss could be much lower than training loss; due to contineous decreasing of learning rate, the model with only training data without validation data is good without overfitting.
+
+
 
 # 2023
 --------------------------------
@@ -15,6 +17,12 @@ with data augment, learning rate is reduced slowly based on training loss rather
 
 # 19:00-21:00, 2022/11/3
 ----------------------
+## 黄沿鑫，曹彤
+BSG: vision transformer for segmentation
+ 1. [A Cascaded Deep Convolutional Neural Networkfor Joint Segmentation and Genotype Prediction of Brainstem Gliomas (TBME 2018)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8375811)
+
+
+
   ## 王凌锋(presenter) 、黎昊程、黄沿鑫、
   达到或超越前三名
   
@@ -268,9 +276,9 @@ Classification"](https://ccia.ugr.es/vip/resources/BAL.html)
 1. Underwater Image Enhancement With Reinforcement Learning (2022 with codes)
  
 ## image transform + deep learning
-1. gabor filters + 1by1 filters: 通道用Gabor filter, 混合用1by1 to reduce #parameters
+1. gabor filters + 1by1 filters: 通道用Gabor filter, 混合用1by1 to reduce #parameters, with random augmentation, we found it is better than [gabor convolutional netowrk (TIP2018)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8375811)
 2. wavelet transform for encoder + deep learning for decoder: 用小波编码图像，用深度学习解码，类似于Unet.(多尺度图像分析）
-3. gabor net
+3. we also find that conventinal cnn with 1by1 channel mixing filters could be better than original CNN. 
  
      
  ## fast journal
