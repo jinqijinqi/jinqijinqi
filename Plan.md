@@ -290,13 +290,15 @@ Classification"](https://ccia.ugr.es/vip/resources/BAL.html)
  
 ## Ai video surveillance platform (租云服务器作为主机，搭建基于WebRTC的监控平台）
   1. [vidgear: video processing platform (python)](https://github.com/abhiTronix/vidgear)
-  2. [Private Home Surveillance with the WebRTC DataChannel (Ivelin Ivanov)](https://webrtchacks.com/private-home-surveillance-with-the-webrtc-datachannel/)
-  3. [nginx-http-flv-module: media streaming server](https://github.com/winshining/nginx-http-flv-module)
-  4. [使用WebRTC广播IP摄像头视频流](https://blog.csdn.net/biaobro/article/details/64129620?spm=1001.2101.3001.6650.14&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7ERate-14-64129620-blog-89626766.pc_relevant_3mothn_strategy_recovery&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7ERate-14-64129620-blog-89626766.pc_relevant_3mothn_strategy_recovery&utm_relevant_index=15)
-  5. [Get started with WebRTC](https://web.dev/webrtc-basics/)
-  6. 5G 和Wifi6无线组网WebRTC监控平台：结合2中的方法，用wifi6 路由器连接本地多个摄像头，然后用5G网关连接互联网，用WEBRTC 通信，做到无布线。
-  7. [red5 media server: Live video streaming solved. Broadcast video to millions in under 500 milliseconds](https://github.com/Red5/red5-server)
-  8. [python aiortc for webrtc and ortc](https://github.com/aiortc/aiortc) 
+  2. [VPF (GPU codec, 500 fps) python](https://github.com/NVIDIA/VideoProcessingFramework) 
+  3. [Top 5: Best Open Source WebRTC Media Server Projects](https://ourcodeworld.com/articles/read/1212/top-5-best-open-source-webrtc-media-server-projects)
+  4. [Private Home Surveillance with the WebRTC DataChannel (Ivelin Ivanov)](https://webrtchacks.com/private-home-surveillance-with-the-webrtc-datachannel/)
+  5. [nginx-http-flv-module: media streaming server](https://github.com/winshining/nginx-http-flv-module)
+  6. [使用WebRTC广播IP摄像头视频流](https://blog.csdn.net/biaobro/article/details/64129620?spm=1001.2101.3001.6650.14&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7ERate-14-64129620-blog-89626766.pc_relevant_3mothn_strategy_recovery&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7ERate-14-64129620-blog-89626766.pc_relevant_3mothn_strategy_recovery&utm_relevant_index=15)
+  7. [Get started with WebRTC](https://web.dev/webrtc-basics/)
+  8. 5G 和Wifi6无线组网WebRTC监控平台：结合2中的方法，用wifi6 路由器连接本地多个摄像头，然后用5G网关连接互联网，用WEBRTC 通信，做到无布线。
+  9. [red5 media server: Live video streaming solved. Broadcast video to millions in under 500 milliseconds](https://github.com/Red5/red5-server)
+  10. [python aiortc for webrtc and ortc](https://github.com/aiortc/aiortc) 
 
 ## AI model deployment and Lab Website (all student projects required to deploy here)
 1. [streamlit: simple and free and can be deployed in local server (nginx inverse proxy for intranet)](https://streamlit.io/);
