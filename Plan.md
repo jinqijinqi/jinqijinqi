@@ -2,6 +2,7 @@
 ## AI model deployment and Lab Website (all student projects required to deploy here)
 1. [webrtc and deployment example- live stream template (classification and detection and media stream with webcam](https://github.com/whitphx/streamlit-webrtc-example) （现场摄像头支持）
 2. [Eagle Vision for stuent project template static image case -project organization]https://github.com/Joshmantova/Eagle-Vision (所有学生参考这个组织自己的项目，主要包含训练源码和streamlit 展示代码，训练数据要在readme中指明可下载的地方，可以是自己的网盘或其它地方）
+3. [Deploy Streamlit using Docker](https://docs.streamlit.io/knowledge-base/tutorials/deploy/docker)
 
 # General Training Idea: 
 with data augment, learning rate is reduced slowly based on training loss rather than valid/test loss since initial test/valid loss could be much lower than training loss; due to contineous decreasing of learning rate, the model with only training data without validation data is good without overfitting.
