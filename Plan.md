@@ -1,3 +1,7 @@
+## 25 institute GAN for augment radar parameter
+1. [Generative Adversarial Network for Radar Signal
+Generation](https://arxiv.org/pdf/2008.03346.pdf)
+2. text to image (Conditional GAN Idea borrowed)
 
 ## AI model deployment and Lab Website (all student projects required to deploy here)
 1. [webrtc and deployment example- live stream template (classification and detection and media stream with webcam](https://github.com/whitphx/streamlit-webrtc-example) （现场摄像头支持）
