@@ -12,6 +12,7 @@ Generation](https://arxiv.org/pdf/2008.03346.pdf)
 4. [Generate Synthetic Signals Using Conditional GAN](https://ww2.mathworks.cn/help/signal/ug/generate-synthetic-pump-signals-using-conditional-generative-adversarial-network.html)
 5. [Data Augmentation techniques in time series domain: a survey
 and taxonomy](https://link.springer.com/article/10.1007/s00521-023-08459-3)
+6.[FMCW-MIMO-Radar-Simulation(matlab code)](https://github.com/ekurtgl/FMCW-MIMO-Radar-Simulation)
 
 ## AI model deployment and Lab Website (all student projects required to deploy here)
 1. [webrtc and deployment example- live stream template (classification and detection and media stream with webcam](https://github.com/whitphx/streamlit-webrtc-example) （现场摄像头支持）
