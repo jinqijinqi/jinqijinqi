@@ -4,6 +4,9 @@
 
 （1. 能够用pytorch进行新方法的快速实现和验证；2. 对深度学习理论有所掌握，能够快速设计自己的网络；3. 具有较强的英文论文收集、阅读、理解能力；4. 具有较好的英文写作能力；5. 诚实守信，刻苦努力，听从合理按排，每天坚持到实验室；6. 必须坚持到毕业，短期的或者打算中途跑路的千万不要来；7. 实验室根据项目情况，必要时可能会按排做其它项目，根据贡献可能有一些资金补助。）
 
+## Streamline AI development
+1. [Keeping Up with PyTorch Lightning and Hydra — 2nd Edition](https://towardsdatascience.com/keeping-up-with-pytorch-lightning-and-hydra-2nd-edition-34f88e9d5c90)
+2. [hydra-torch](https://github.com/pytorch/hydra-torch/tree/main)
 ## 25 institute GAN for augment radar parameter
 1. [Generative Adversarial Network for Radar Signal
 Generation](https://arxiv.org/pdf/2008.03346.pdf)
