@@ -353,6 +353,9 @@ Classification"](https://ccia.ugr.es/vip/resources/BAL.html)
 ## NSFC Proposal
 1. key techiques in facial affective behaviour analysis: transformer based task wise and label wise correlation learning + semi-supervised leaarning+efficient network architecture learning
 
+
+## TI radar tutorial (best than book)
+1. [Intro to mmWave Sensing : FMCW Radars ](https://www.ti.com/sitesearch/en-us/docs/universalsearch.tsp?langPref=en-US&searchTerm=introduction%20to%20mmwave%20sensing%20fmcw%20radars&preFilter=products_Sensors&nr=6#q=introduction%20to%20mmwave%20sensing%20fmcw%20radars&sort=relevancy&numberOfResults=25&f:products=[Sensors,mmWave%20radar%20sensors]&f:videos=[Video,Video%20series])
 ## Benchmark State of the art method (best methods to borrow)
 1. [paper with code](https://paperswithcode.com/)
 2. [benchmarks.AI](https://benchmarks.ai/)
