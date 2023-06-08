@@ -4,6 +4,12 @@
 
 （1. 能够用pytorch进行新方法的快速实现和验证；2. 对深度学习理论有所掌握，能够快速设计自己的网络；3. 具有较强的英文论文收集、阅读、理解能力；4. 具有较好的英文写作能力；5. 诚实守信，刻苦努力，听从合理按排，每天坚持到实验室；6. 必须坚持到毕业，短期的或者打算中途跑路的千万不要来；7. 实验室根据项目情况，必要时可能会按排做其它项目，根据贡献可能有一些资金补助。）
 
+## quick way to dive into research and education by curated lists of lists
+1. Path to a free self-taught education in Computer Science! [link](https://github.com/ossu/computer-science)
+2. curated lists of lists [link](https://github.com/cuuupid/awesome-lists)
+3. radar [link](https://github.com/ZHOUYI1023/awesome-radar-perception)
+
+
 ## Streamline AI development
 1. [Keeping Up with PyTorch Lightning and Hydra — 2nd Edition](https://towardsdatascience.com/keeping-up-with-pytorch-lightning-and-hydra-2nd-edition-34f88e9d5c90)
 2. [hydra-torch](https://github.com/pytorch/hydra-torch/tree/main)
@@ -368,3 +374,5 @@ Classification"](https://ccia.ugr.es/vip/resources/BAL.html)
 ## collaborator
 [S. Derin Babacan](http://www.dbabacan.info/software.html)
 [Rafael Molina](https://ccia.ugr.es/vip/software.html)
+
+## curated list of list
