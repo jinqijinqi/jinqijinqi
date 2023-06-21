@@ -379,4 +379,8 @@ Classification"](https://ccia.ugr.es/vip/resources/BAL.html)
 [S. Derin Babacan](http://www.dbabacan.info/software.html)
 [Rafael Molina](https://ccia.ugr.es/vip/software.html)
 
-## curated list of list
+## cooperate with hospital with paper framework
+1. ["IRENE: A transformer-based representation-learning model with unified processing of multimodal input for clinical diagnostics"](https://www.nature.com/articles/s41551-023-01045-x), Nature BME (2023). [code link](https://github.com/RL4M/IRENE)
+2. [Foundation models for generalist medical artificial intelligence. Nature 616, 259–265 (2023)](https://www.nature.com/articles/s41586-023-05881-4)
+3. [A framework for artificial intelligence in cancer research and precision oncology. npj Precis. Onc. 7, 43 (2023)](https://www.nature.com/articles/s41698-023-00383-y)
+4. [Health system-scale language models are all-purpose prediction engines. Nature (2023)](https://www.nature.com/articles/s41586-023-06160-y)
