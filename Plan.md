@@ -382,9 +382,16 @@ Classification"](https://ccia.ugr.es/vip/resources/BAL.html)
 
 ## nature method
  1. 细胞核分割: nature methods: [Omnipose: a high-precision morphology-independent solution for bacterial cell segmentation](https://www.nature.com/articles/s41592-022-01639-4)
- 2. cell segmentation and track: Maška, M., Ulman, V., Delgado-Rodriguez, P. et al. [The Cell Tracking Challenge: 10 years of objective benchmarking. Nat Methods (2023).] (https://doi.org/10.1038/s41592-023-01879-y)
- 3. Griebel, M., Segebarth, D., Stein, N. et al. [Deep learning-enabled segmentation of ambiguous bioimages with deepflash2. Nat Commun 14, 1679 (2023)] (https://doi.org/10.1038/s41467-023-36960-9)
+ 2. cell segmentation and track: Maška, M., Ulman, V., Delgado-Rodriguez, P. et al. [The Cell Tracking Challenge: 10 years of objective benchmarking. Nat Methods (2023).](https://doi.org/10.1038/s41592-023-01879-y)
+ 3. Griebel, M., Segebarth, D., Stein, N. et al. [Deep learning-enabled segmentation of ambiguous bioimages with deepflash2. Nat Commun 14, 1679 (2023)](https://doi.org/10.1038/s41467-023-36960-9)
  4. Sheridan, A., Nguyen, T.M., Deb, D. et al. [Local shape descriptors for neuron segmentation. Nat Methods 20, 295–303 (2023).](https://doi.org/10.1038/s41592-022-01711-z)
+ 5. Primakov, S.P., Ibrahim, A., van Timmeren, J.E. et al. [Automated detection and segmentation of non-small cell lung cancer computed tomography images. Nat Commun 13, 3423 (2022).](https://doi.org/10.1038/s41467-022-30841-3)
+ 6. Shrestha, P., Kuang, N. & Yu, J. [Efficient end-to-end learning for cell segmentation with machine generated weak annotations. Commun Biol 6, 232 (2023).](https://doi.org/10.1038/s42003-023-04608-5)
+ 7. De Falco, A., Caruso, F., Su, XD. et al. [A variational algorithm to detect the clonal copy number substructure of tumors from scRNA-seq data. Nat Commun 14, 1074 (2023).](https://doi.org/10.1038/s41467-023-36790-9)
+ 8. de Teresa-Trueba, I., Goetz, S.K., Mattausch, A. et al. [Convolutional networks for supervised mining of molecular patterns within cellular context. Nat Methods 20, 284–294 (2023).](https://doi.org/10.1038/s41592-022-01746-2)
+ 9. idea: increamental learing : Pachitariu, M., Stringer, [C. Cellpose 2.0: how to train your own model. Nat Methods 19, 1634–1641 (2022).](https://doi.org/10.1038/s41592-022-01663-4)
+ 10. Dayao, M.T., Brusko, M., Wasserfall, C. et al. [Membrane marker selection for segmenting single cell spatial proteomics data. Nat Commun 13, 1999 (2022).](https://doi.org/10.1038/s41467-022-29667-w)
+ 11. 
 
 ## cooperate with hospital with paper framework
 1. ["IRENE: A transformer-based representation-learning model with unified processing of multimodal input for clinical diagnostics"](https://www.nature.com/articles/s41551-023-01045-x), Nature BME (2023). [code link](https://github.com/RL4M/IRENE)
