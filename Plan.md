@@ -1,5 +1,6 @@
 ## 格院2023科研见习项目 （论文为主）
-1. 细胞核分割
+李小龙，蒲志聪
+1. 细胞核分割: nature methods: [Omnipose: a high-precision morphology-independent solution for bacterial cell segmentation](https://www.nature.com/articles/s41592-022-01639-4)
 2. 自动指纹识别
 
 （1. 能够用pytorch进行新方法的快速实现和验证；2. 对深度学习理论有所掌握，能够快速设计自己的网络；3. 具有较强的英文论文收集、阅读、理解能力；4. 具有较好的英文写作能力；5. 诚实守信，刻苦努力，听从合理按排，每天坚持到实验室；6. 必须坚持到毕业，短期的或者打算中途跑路的千万不要来；7. 实验室根据项目情况，必要时可能会按排做其它项目，根据贡献可能有一些资金补助。）
