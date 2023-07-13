@@ -367,6 +367,7 @@ Classification"](https://ccia.ugr.es/vip/resources/BAL.html)
 
 ## TI radar tutorial (best than book)
 1. [Intro to mmWave Sensing : FMCW Radars ](https://www.ti.com/sitesearch/en-us/docs/universalsearch.tsp?langPref=en-US&searchTerm=introduction%20to%20mmwave%20sensing%20fmcw%20radars&preFilter=products_Sensors&nr=6#q=introduction%20to%20mmwave%20sensing%20fmcw%20radars&sort=relevancy&numberOfResults=25&f:products=[Sensors,mmWave%20radar%20sensors]&f:videos=[Video,Video%20series])
+2. [SAR成像原理和仿真实现](https://blog.csdn.net/a1367666195/article/details/112073456)
 ## Benchmark State of the art method (best methods to borrow)
 1. [paper with code](https://paperswithcode.com/)
 2. [benchmarks.AI](https://benchmarks.ai/)
@@ -379,6 +380,12 @@ Classification"](https://ccia.ugr.es/vip/resources/BAL.html)
 ## collaborator
 [S. Derin Babacan](http://www.dbabacan.info/software.html)
 [Rafael Molina](https://ccia.ugr.es/vip/software.html)
+
+## GAN for different imaging modality 
+1. GAN transfer different style image (such as different imaging modality) into one template style for image analysis to deal with image diversity problem
+
+## Sparsity for boosting radar distance resolution for wide pulse
+1. repalce matching filtering process with sparse representation learning for better distance resolution
 
 ## nature method
  1. 细胞核分割: nature methods: [Omnipose: a high-precision morphology-independent solution for bacterial cell segmentation](https://www.nature.com/articles/s41592-022-01639-4)
