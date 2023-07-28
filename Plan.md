@@ -390,13 +390,12 @@ Classification"](https://ccia.ugr.es/vip/resources/BAL.html)
 ## nature method
  1. 细胞核分割: nature methods: [Omnipose: a high-precision morphology-independent solution for bacterial cell segmentation](https://www.nature.com/articles/s41592-022-01639-4) 
 
-   omnipose limitation: distance definition failed in overlapping or occlusion cases (one pixel belongs to more than two objects);
+   omnipose limitation: distance definition failed in overlapping or occlusion cases (one pixel belongs to more than two objects).
    
     solution: 1)after omnipose process, overlapping area (overlapping area detection) is processed by 
-    [segment anything model](https://github.com/facebookresearch/segment-anything), 
+   [segment anything model](https://github.com/facebookresearch/segment-anything), 
     [Instance Segmentation of Dense and Overlapping Objects via Layering](https://arxiv.org/pdf/2210.03551.pdf), 
-    [Occlusion-Aware Instance Segmentation via BiLayer Network Architectures 
-    (http://aixpaper.com/view/occlusionaware_instance_segmentation_via_bilayer_network_architectures),
+    [Occlusion-Aware Instance Segmentation via BiLayer Network Architectures](http://aixpaper.com/view/occlusionaware_instance_segmentation_via_bilayer_network_architectures),
 
     dense nuclei/cell segmentation based on four color map: 1) coloring original image with manual mask and train generative network to predict four color map; 
     
