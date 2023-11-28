@@ -236,6 +236,9 @@ perspective](https://link.springer.com/article/10.1007/s10462-022-10259-5)
     1) [Deconvolution using natural image priors (code for spatial and frequency domain)](Deconvolution using natural image priors)
     2) unrolled method with neural network: 1) [CDLNet: Noise-Adaptive Convolutional Dictionary Learning Network for Blind Denoising and Demosaicing](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9769957); 2)[Gabor is Enough: Interpretable Deep Denoising
 with a Gabor Synthesis Dictionary Prior](https://arxiv.org/pdf/2204.11146.pdf)
+    3) [Blind Image Deconvolution Using Variational Deep Image Prior](https://arxiv.org/abs/2202.00179) [VDIP-TGV: Blind Image Deconvolution via
+Variational Deep Image Prior Empowered by Total
+Generalized Variation](https://arxiv.org/pdf/2310.19477.pdf)
    
    ### ii) Bayesian method
    1) h given, using bayesian method (sparse Bayes(type II maximum likelyhood), variational bayes, EM method, time and frequency domain, unrolled method)
