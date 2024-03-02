@@ -17,6 +17,10 @@ Generative Adversarial Networks(代码，基于GAN的指纹合成及身份细节
 2. [LLM-course](https://github.com/mlabonne/llm-course/tree/main?tab=readme-ov-file)
 3. 
 
+## Neural Symbolic VS Neural (神经符号模型可以推广现有神经模型）
+1. [A neuro-vector-symbolic architecture for solving Raven’s progressive matrices(data and code)](https://www.nature.com/articles/s42256-023-00630-8)
+2. [Object-based attention for spatio-temporal reasoning: Outperforming neuro-symbolic models with flexible distributed architectures](https://arxiv.org/abs/2012.08508v1)
+
 ## Reinforcement learning for air combat
 1. data from game: digital combat simulator world(DCS) or other game
 2. tacview record data and visualization and analysis
