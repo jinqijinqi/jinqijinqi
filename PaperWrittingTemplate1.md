@@ -18,3 +18,16 @@
 2）视角1，我们的方法不同；
 3）视角2，我们的方法不同；
 3）视角3，我们的方法不同。
+# method:
+1) preliminary: 符号及相关问题数学表达
+2) 给一个pipeline图概括方法流程
+3) 方法介绍
+4) 伪代码概括方法
+# experiments:
+1) 概括: 一句话
+2) experimental setting: a) data sets: 数据集介绍； b)implementation details: 参数设置、对比方法选择及设置、ablation study on 超参数设置。
+3）Overview of Experiments: 概括要做的实验
+4）在数据集一上的实验
+5）在数据集二上的实验
+6）ablation study
+# conclusion
