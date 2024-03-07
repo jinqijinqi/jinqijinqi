@@ -13,7 +13,7 @@ Dynamic Clustering(pami2024, code and data)](https://ieeexplore.ieee.org/stamp/s
    7) 基于稀疏多径网络的多模态（多种类）自适应图像处理：构造多径网络（多于模态/种类数），生成多径输出和稀疏径加权向量，最后的输出是多径稀疏加权和。损失函数可以包含模态/种类损失函数，也可以不要，需要测试。
 4. reinforcement learning for image enhancement: refer to our paper [AUTOMATIC IMAGE CONTRAST ENHANCEMENT BASED ON REINFROCEMENT LEARNING](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10016571)
 5. 2023(segmentation) refer to [seUNet-Trans: A Simple yet Effective UNet-Transformer Model for Medical Image Segmentation](https://arxiv.org/pdf/2310.09998.pdf)
-6. clear image prior(用该测度测试红外与可见光的梯度图像可以知道哪一个图像更清晰）: L1/L2, refer to (code available): refer to ["Blind Deconvolution Using a Normalized Sparsity Measure"](https://dilipkay.files.wordpress.com/2019/04/priors_cvpr11.pdf)！[梯度图范数对比]() 根据上图我们提出一个更好的测L1/L2-L2
+6. clear image prior(用该测度测试红外与可见光的梯度图像可以知道哪一个图像更清晰）: L1/L2, refer to (code available): refer to ["Blind Deconvolution Using a Normalized Sparsity Measure"](https://dilipkay.files.wordpress.com/2019/04/priors_cvpr11.pdf)！[梯度图范数对比](https://github.com/jinqijinqi/jinqijinqi/blob/main/L1L2ratio.gif) 根据上图我们提出一个更好的测L1/L2-L2
 
 （1. 能够用pytorch进行新方法的快速实现和验证；2. 对深度学习理论有所掌握，能够快速设计自己的网络；3. 具有较强的英文论文收集、阅读、理解能力；4. 具有较好的英文写作能力；5. 诚实守信，刻苦努力，听从合理按排，每天坚持到实验室；6. 必须坚持到毕业，短期的或者打算中途跑路的千万不要来；7. 实验室根据项目情况，必要时可能会按排做其它项目，根据贡献可能有一些资金补助。）
 
