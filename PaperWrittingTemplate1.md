@@ -1,4 +1,5 @@
 ## 论文写作模板
+# 参考 [DynGAN: Solving Mode Collapse in GANs with Dynamic Clustering(code, pami2024)](https://ieeexplore.ieee.org/document/10440507)
 
 # Abstract:
 1）研究对象有广泛的应用；
