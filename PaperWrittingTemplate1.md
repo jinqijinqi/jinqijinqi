@@ -4,7 +4,7 @@
 7. information fusion(1区）;8.information science(1区）
 # 参考 [DynGAN: Solving Mode Collapse in GANs with Dynamic Clustering(code, pami2024)](https://ieeexplore.ieee.org/document/10440507)
 
-# 写综述查阅 [web of science](https://webofscience.clarivate.cn/wos/alldb/summary/4387e34a-d31a-4e62-9a42-c4d4974e9c77-d3fdfee7/relevance/1)
+# 写综述查阅 [scopus](https://www.scopus.com/search/form.uri?display=basic&zone=header&origin=#basic）[web of science](https://webofscience.clarivate.cn/wos/alldb/summary/4387e34a-d31a-4e62-9a42-c4d4974e9c77-d3fdfee7/relevance/1)
 
 # Abstract:
 1）研究对象有广泛的应用；
