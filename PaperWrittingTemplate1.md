@@ -1,4 +1,7 @@
 ## 论文写作模板
+图像融合杂志：1.neurocomputing(2区）；2. Pattern Recognition(1区）；3. ieee transactions on Multimedia（1区）；
+4. IEEE TIM (2区）；5. IEEE Transactions on Computational Imaging(2区）; 6. **IEEE TRANSACTIONS ON CIRCUITS AND SYSTEMS FOR VIDEO TECHNOLOGY(1区，较易）**
+7. information fusion(1区）;8.information science(1区）
 # 参考 [DynGAN: Solving Mode Collapse in GANs with Dynamic Clustering(code, pami2024)](https://ieeexplore.ieee.org/document/10440507)
 
 # Abstract:
