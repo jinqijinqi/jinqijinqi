@@ -2,7 +2,7 @@
 李小龙，蒲志聪,杨立兆，冯建刚，邹筱甫
 1. 细胞核分割: nature methods: [Omnipose: a high-precision morphology-independent solution for bacterial cell segmentation](https://www.nature.com/articles/s41592-022-01639-4)
 2. 自动指纹识别: 1)指纹仿真及数据库开发；2）基于仿真的数据开发基于深度学习的指纹处理及识别方法; 3)[Synthesis and Reconstruction of Fingerprints using
-Generative Adversarial Networks(代码，基于GAN的指纹合成及身份细节保持而外观变化的仿真](https://arxiv.org/pdf/2201.06164.pdf) 4）[Fingerprint dataset collection](https://github.com/robertvazan/fingerprint-datasets)
+Generative Adversarial Networks(代码，基于GAN的指纹合成及身份细节保持而外观变化的仿真](https://arxiv.org/pdf/2201.06164.pdf) 4）[Fingerprint dataset collection](https://github.com/robertvazan/fingerprint-datasets); [IIT latent fingerprint/biometric database with minutiae and mask](https://iab-rubric.org/resources/all-resources); 5) we accidentally find GAN could be used for fingerprint image enhancement if learning with our master fingerprint.
 3. infrared and visible image fusion with image enhancement: retinex +GAN+ distance map+ transformer. [Physics driven deep Retinex fusion for adaptive infrared and visible image fusion](https://www.spiedigitallibrary.org/journals/optical-engineering/volume-62/issue-08/083101/Physics-driven-deep-Retinex-fusion-for-adaptive-infrared-and-visible/10.1117/1.OE.62.8.083101.full?SSO=1) [Image fusion transformer](https://github.com/Vibashan/Image-Fusion-Transformer)
    1) [基于深度学习的图像融合方法综述(数据集，代码）2023](http://www.cjig.cn/jig/ch/reader/create_pdf.aspx?file_no=20230102&st=alljournals); 2)[马佳义github](https://github.com/jiayi-ma)[马佳义lab](http://mvp.whu.edu.cn/jiayima/);[tang linfeng](https://github.com/Linfeng-Tang)
    3) [DIVFusion: Darkness-free infrared and visible image fusion(低光照对比度增强）](https://www.sciencedirect.com/science/article/abs/pii/S156625352200210X)
