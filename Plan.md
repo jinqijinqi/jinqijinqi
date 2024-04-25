@@ -263,6 +263,12 @@ with a Gabor Synthesis Dictionary Prior](https://arxiv.org/pdf/2204.11146.pdf)
     3) [Blind Image Deconvolution Using Variational Deep Image Prior](https://arxiv.org/abs/2202.00179) [VDIP-TGV: Blind Image Deconvolution via
 Variational Deep Image Prior Empowered by Total
 Generalized Variation](https://arxiv.org/pdf/2310.19477.pdf)
+    4)[Fourier-Domain Optimization for Image Processing(code matlab python)](https://arxiv.org/pdf/1809.04187v1.pdf): 可以通过Circ 操作将卷积矩阵写成关于滤波器系数的线性加权和如
+      '''
+      $$H=\sum_{i=1}^m h_m * H_m$$
+       '''
+       从而可以解决bayesian simultaenous compressive and deconvolution
+   5)[Effective Blind Image Deblurring Using Matrix-Variable Optimization](Effective Blind Image Deblurring Using Matrix-Variable Optimization): 确定性的方法解决simultaenous compressive deconvolution
    
    ### ii) Bayesian method
    1) h given, using bayesian method (sparse Bayes(type II maximum likelyhood), variational bayes, EM method, time and frequency domain, unrolled method)
