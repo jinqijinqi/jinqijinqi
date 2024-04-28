@@ -270,6 +270,7 @@ Generalized Variation](https://arxiv.org/pdf/2310.19477.pdf)
        从而可以解决bayesian simultaenous compressive and deconvolution
    5) [Effective Blind Image Deblurring Using Matrix-Variable Optimization](Effective Blind Image Deblurring Using Matrix-Variable Optimization): 确定性的方法解决simultaenous compressive deconvolution
    6) [HQS和ADMM和深度先验解决逆问题（如去卷积等）（频域实现去卷积公式很有用）](https://stanford.edu/class/ee367/reading/ee367_notes_deconvolution.pdf)(https://web.stanford.edu/class/ee367/)
+
    
    ### ii) Bayesian method
    1) h given, using bayesian method (sparse Bayes(type II maximum likelyhood), variational bayes, EM method, time and frequency domain, unrolled method)
@@ -342,6 +343,7 @@ Classification"](https://ccia.ugr.es/vip/resources/BAL.html)
 
       21. a fast simple object instance detection method with boundary and center marker and background learning and marker based watershed and object verify: 1) use semantic segmentation to obtain foreground marker and background and boundary map; 2) thinning background to obtain background marker; 3) use boundary score map as segmentation map with local minimum constraint in foreground marker and background marker position; use marker based watershed to obtain instance objects; 4) for each instance object, using network to verify it is true or false object.
       22. [A full bayesian approach for inverse problem](https://www.researchgate.net/publication/2166997_A_Full_Bayesian_Approach_for_Inverse_Problems)
+      23. [Bayesian deconvolution (MATALB code for FFT implementation)](http://djafari.free.fr/Cours/MATIS/TP/decmalp_a.m)
       
       
 
