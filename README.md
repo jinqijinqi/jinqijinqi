@@ -1,9 +1,9 @@
 # 👋 This is AIML laboratory in UESTC led by Prof. Jin Qi
 # 👀 Member
 
+Master 2024:
 Master 2023:
-
-Lingfeng Wang:
+Master 2022:
 
 # 🌱 Project
 
