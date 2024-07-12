@@ -8,6 +8,13 @@
 
 # paper
 
+<details>
+  <summary>One more quick hack? 🎭</summary>
+  
+  → Easy  
+  → And simple
+</details>
+
 <a name="dataset-section-id" />
 
 # dataset
@@ -16,6 +23,6 @@
 
 # benchmark
 
-<a name="some-id" />
+<a name="idea-section-id" />
 
 # idea
