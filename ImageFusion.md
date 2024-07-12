@@ -11,13 +11,9 @@
 <details>
   <summary>details🎭</summary>
   
-  → survey
-  
-    1. X. Zhang and Y. Demiris, "Visible and Infrared Image Fusion Using Deep Learning," in IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 45, no. 8, pp. 10535-10554, Aug. 2023
-  
-  → journal
-  
-  → conference 
+  ## survey
+    1).  X. Zhang and Y. Demiris, "Visible and Infrared Image Fusion Using Deep Learning," in IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 45, no. 8, pp. 10535-10554, Aug. 2023
+    2). hello
 </details>
 
 <a name="dataset-section-id" />
