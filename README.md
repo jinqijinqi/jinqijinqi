@@ -11,7 +11,7 @@ Master 2022:
 
 # 🌱 Project
 ## image fusion
-## Bayesian image inverse
+## Bayesian imaging inverse
 
 # 🌱 Competition/Award:
 
