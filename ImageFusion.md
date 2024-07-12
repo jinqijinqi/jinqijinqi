@@ -14,9 +14,7 @@
 <a name="benchmark-section-id />
 # benchmark
 
-[Jump to a section with custom ID](#some-id)
 
-...
 
 <a name="some-id" />
 
