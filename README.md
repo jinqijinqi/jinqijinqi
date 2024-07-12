@@ -10,7 +10,7 @@ Master 2022:
 ## Introduction of artificial intelligence 
 
 # 🌱 Project
-## image fusion
+## [image fusion](https://github.com/jinqijinqi/jinqijinqi/blob/main/ImageFusion.md)
 ## Bayesian imaging inverse
 
 # 🌱 Competition/Award:
