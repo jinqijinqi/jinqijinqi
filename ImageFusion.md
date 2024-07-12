@@ -2,16 +2,16 @@
 # [dataset](#dataset-section-id)
 # [benchmark](#benchmark-section-id)
 -------------------------------------
-[Jump to a section with custom ID](#some-id)
+# [Jump to a section with custom ID](#some-id)
 
-...
-<a name="paper-section-id />
+<a name="paper-section-id" />
+
 # paper
 
-<a name="dataset-section-id />
+<a name="dataset-section-id" />
 # dataset
 
-<a name="benchmark-section-id />
+<a name="benchmark-section-id" />
 # benchmark
 
 
