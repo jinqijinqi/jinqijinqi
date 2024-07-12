@@ -6,8 +6,12 @@ Master 2023:
 Master 2022:
 
 # 🌱 Teaching
+## Image processing
+## Introduction of artificial intelligence 
 
 # 🌱 Project
+## image fusion
+## Bayesian image inverse
 
 # 🌱 Competition/Award:
 
