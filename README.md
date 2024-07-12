@@ -1,9 +1,11 @@
-# 👋 This is AIML laboratory in UESTC led by Prof. Jin Qi
+# 👋 AIML laboratory in UESTC led by Prof. Jin Qi
 # 👀 Member
 
 Master 2024:
 Master 2023:
 Master 2022:
+
+# 🌱 Teaching
 
 # 🌱 Project
 
