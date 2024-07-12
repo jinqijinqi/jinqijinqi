@@ -14,7 +14,6 @@
   → survey  
   → journal
   → conference
-  
 </details>
 
 <a name="dataset-section-id" />
