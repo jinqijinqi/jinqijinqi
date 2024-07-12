@@ -32,7 +32,7 @@
 
 # benchmark
  ## 2023
-   1. [VIF benchmark (python)](https://github.com/Linfeng-Tang/VIF-Benchmark), 2023
+   1. [VIF benchmark (code(python))](https://github.com/Linfeng-Tang/VIF-Benchmark), 2023
  ## 2020
    1. X. Zhang, P. Ye and G. Xiao, ["VIFB: A Visible and Infrared Image Fusion Benchmark,"](https://ieeexplore.ieee.org/document/9150987) 2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW), Seattle, WA, USA, 2020, pp. 468-478. [code (matlab)](https://github.com/xingchenzhang/VIFB)
 
