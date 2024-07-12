@@ -9,10 +9,12 @@
 # paper
 
 <details>
-  <summary>One more quick hack? 🎭</summary>
+  <summary>details🎭</summary>
   
-  → Easy  
-  → And simple
+  → survey  
+  → journal
+  → conference
+  
 </details>
 
 <a name="dataset-section-id" />
