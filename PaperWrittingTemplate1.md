@@ -1,9 +1,9 @@
 ## 论文写作模板
 图像融合杂志：1.neurocomputing(2区）；2. Pattern Recognition(1区）；3. ieee transactions on Multimedia（1区）；
-4. IEEE TIM (2区）；5. IEEE Transactions on Computational Imaging(2区）; 6. **IEEE TRANSACTIONS ON CIRCUITS AND SYSTEMS FOR VIDEO TECHNOLOGY(1区，较易）**
-7. information fusion(1区）;8.information science(1区); __9. optics express (2 month, top 2区)__; 10. IEEE Sensors journal(Q2,2months,semimonthly);
-11. Remote sensing (Q2,2months); 12. expert systems with applications (Q1, top); 13. KNOWLEDGE-BASED SYSTEMS (Q1, top); 14. IEEE Transactions on Emerging Topics in Computational Intelligence(Q3) 
-14. IEEE TRANSACTIONS ON CONSUMER ELECTRONICS(Q2) ; 15. IEEE signal processing letter (Q2)
+4. IEEE TIM (2区）；5. IEEE Transactions on Computational Imaging(2区）; 6. IEEE TRANSACTIONS ON CIRCUITS AND SYSTEMS FOR VIDEO TECHNOLOGY(1区，较易）
+7. information fusion(1区）;8.information science(1区); __9. optics express (2 month, top 2区)__; __10. IEEE Sensors journal(Q2,2months,semimonthly)__;
+__11. Remote sensing (Q2,2months)__; 12. expert systems with applications (Q1, top); 13. KNOWLEDGE-BASED SYSTEMS (Q1, top); 14. IEEE Transactions on Emerging Topics in Computational Intelligence(Q3) 
+14. IEEE TRANSACTIONS ON CONSUMER ELECTRONICS(Q2) ; __15. IEEE signal processing letter (Q2)__
 
 # 参考 [DynGAN: Solving Mode Collapse in GANs with Dynamic Clustering(code, pami2024)](https://ieeexplore.ieee.org/document/10440507)
 
