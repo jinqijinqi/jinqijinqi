@@ -29,6 +29,7 @@ publication:
 # 📫 Code
 # Tutorial
 <a href="https://github.com/jinqijinqi/jinqijinqi/blob/main/README.md" target="_blank">pdf</a>
+## [GAN 学习大全](https://github.com/eriklindernoren/PyTorch-GAN?tab=readme-ov-file#semi-supervised-gan)
 
 <!---
 jinqijinqi/jinqijinqi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
