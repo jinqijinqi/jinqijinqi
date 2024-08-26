@@ -13,14 +13,14 @@
 ## Digital Image Processing
 1. [stanford(pdf, codes), __picked__](https://web.stanford.edu/class/ee368/handouts.html)
 2. [Gonzaleis Fourth Edition(pdf slides)](https://appliedmaths.sun.ac.za/TW793/slides/)
-reference book:
+3. reference book:
 [digital image processing 4d(book)(figures in ppt)](https://imageprocessingplace.com/DIP-3E/dip3e_classroom_presentations_downloads.htm)
 ## artificial intelligence: a modern approach
-[stanford Artificial Intelligence: Principles and Techniques (code, transcripts, slide(pdf), homework, __picked__)](https://stanford-cs221.github.io/spring2024/)
-[berkeley CS Course(code, transcripts, slide(ppt), homework)](https://inst.eecs.berkeley.edu/~cs188/sp24/)
-reference book
+1. [stanford Artificial Intelligence: Principles and Techniques (code, transcripts, slide(pdf), homework, __picked__)](https://stanford-cs221.github.io/spring2024/)
+2. [berkeley CS Course(code, transcripts, slide(ppt), homework)](https://inst.eecs.berkeley.edu/~cs188/sp24/)
+3. reference book
 [artificial intelligence a modern approach (book,everything)](https://aima.cs.berkeley.edu/instructors.html)
 ## artificial intelligence foundation of computational agents
-[artificial intelligence foundation of computational agents (latex detailed slides: teaching just following, code)](https://www.artint.info/3e/slides/index.html)
+1. [artificial intelligence foundation of computational agents (latex detailed slides: teaching just following, code)](https://www.artint.info/3e/slides/index.html)
 ## 矩阵微积分的机器学习课程
 1. MIT课程（录像及transcripts) ["Matrix Calculus For Machine Learning And Beyond"](https://ocw.mit.edu/courses/18-s096-matrix-calculus-for-machine-learning-and-beyond-january-iap-2023/pages/syllabus/)
