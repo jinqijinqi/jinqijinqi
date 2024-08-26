@@ -10,8 +10,8 @@
 2. coursera to book (prescribe)
 3. [open coursa to book (free)](https://opencoursa.com/)
 ## book producing
-1. video, slides, ppt, handout, notes, code, homework, project from coursera, open coursa, or book website
-2. pdf to ppt, language translating (chatgpt, powerpoint)
+1. video, transcripts, speech, slides, ppt, handout, notes, code, homework, project from coursera, open coursa, or book website
+2. pdf to ppt (adobe acrobat), video to ppt or image, video to speech, speech to text,text to chinese speech, language translating (transcript, chatgpt, powerpoint), 
 3. book host in github private
   
 ## Digital Image Processing
