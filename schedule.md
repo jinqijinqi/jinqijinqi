@@ -8,7 +8,7 @@
 ## 大模型课程
 1. refer to coursera [applied AI](https://www.coursera.org/professional-certificates/applied-artifical-intelligence-ibm-watson-ai)
 2. coursera to book (prescribe)
-3. [open coursa (free)](https://opencoursa.com/) 
+3. [open coursa to book (free)](https://opencoursa.com/) 
   
 ## Digital Image Processing
 1. [stanford(pdf, codes), __picked__](https://web.stanford.edu/class/ee368/handouts.html)
