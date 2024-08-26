@@ -8,10 +8,12 @@
 ## 大模型课程
 1. refer to coursera [applied AI](https://www.coursera.org/professional-certificates/applied-artifical-intelligence-ibm-watson-ai)
 2. coursera to book
-
+  
 ## Digital Image Processing
 [stanford(pdf, codes)](https://web.stanford.edu/class/ee368/handouts.html)
 [Gonzaleis Fourth Edition](https://appliedmaths.sun.ac.za/TW793/slides/)
+## artificial intelligence
+[Artificial Intelligence: Principles and Techniques (code, transcripts, slide, himework)](https://stanford-cs221.github.io/spring2024/)
 
 ## 矩阵微积分的机器学习课程
 1. MIT课程（录像及transcripts) ["Matrix Calculus For Machine Learning And Beyond"](https://ocw.mit.edu/courses/18-s096-matrix-calculus-for-machine-learning-and-beyond-january-iap-2023/pages/syllabus/)
