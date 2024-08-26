@@ -11,8 +11,8 @@
 3. [open coursa (free)](https://opencoursa.com/) 
   
 ## Digital Image Processing
-[stanford(pdf, codes), __picked__](https://web.stanford.edu/class/ee368/handouts.html)
-[Gonzaleis Fourth Edition(pdf slides)](https://appliedmaths.sun.ac.za/TW793/slides/)
+1. [stanford(pdf, codes), __picked__](https://web.stanford.edu/class/ee368/handouts.html)
+2. [Gonzaleis Fourth Edition(pdf slides)](https://appliedmaths.sun.ac.za/TW793/slides/)
 reference book:
 [digital image processing 4d(book)(figures in ppt)](https://imageprocessingplace.com/DIP-3E/dip3e_classroom_presentations_downloads.htm)
 ## artificial intelligence: a modern approach
