@@ -8,7 +8,11 @@
 ## 大模型课程
 1. refer to coursera [applied AI](https://www.coursera.org/professional-certificates/applied-artifical-intelligence-ibm-watson-ai)
 2. coursera to book (prescribe)
-3. [open coursa to book (free)](https://opencoursa.com/) 
+3. [open coursa to book (free)](https://opencoursa.com/)
+## book producing
+1. video, slides, ppt, handout, notes, code, homework, project from coursera, open coursa, or book website
+2. pdf to ppt, language translating (chatgpt, powerpoint)
+3. book host in github private
   
 ## Digital Image Processing
 1. [stanford(pdf, codes), __picked__](https://web.stanford.edu/class/ee368/handouts.html)
