@@ -15,9 +15,10 @@
 3. book host in github private
   
 ## Digital Image Processing
-1. [stanford(pdf, codes), __picked__](https://web.stanford.edu/class/ee368/handouts.html)
-2. [Gonzaleis Fourth Edition(pdf slides)](https://appliedmaths.sun.ac.za/TW793/slides/)
-3. reference book:
+1. [stanford(pdf, codes)](https://web.stanford.edu/class/ee368/handouts.html)
+2. [sun.ac.za,Gonzaleis Fourth Edition(pdf slides)__picked__](https://appliedmaths.sun.ac.za/TW793/slides/)
+3. [new mexican u](https://www.cs.nmt.edu/~ip/lectures.html)
+4. reference book:
 [digital image processing 4d(book)(figures in ppt)](https://imageprocessingplace.com/DIP-3E/dip3e_classroom_presentations_downloads.htm)
 ## artificial intelligence: a modern approach
 1. [stanford Artificial Intelligence: Principles and Techniques (code, transcripts, slide(pdf), homework, __picked__)](https://stanford-cs221.github.io/spring2024/)
