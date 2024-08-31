@@ -13,7 +13,7 @@ Master 2022:
 ## [image fusion](https://github.com/jinqijinqi/jinqijinqi/blob/main/ImageFusion.md)
 ## Bayesian imaging inverse
 ## Radar Signal Augmentation
-## Digital Combat Simulator
+## [Digital Combat Simulator](https://github.com/jinqijinqi/jinqijinqi/blob/main/DCS.md)
 
 # 🌱 Competition/Award:
 
