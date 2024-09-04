@@ -25,7 +25,10 @@
 2. [berkeley CS Course(code, transcripts, slide(ppt), homework)](https://inst.eecs.berkeley.edu/~cs188/sp24/)
 3. reference book
 [artificial intelligence a modern approach (book,everything)](https://aima.cs.berkeley.edu/instructors.html)
+## Machine learning or deep learning
+1. [understand deep leanring (code, ppt, book, problem, solution)](https://udlbook.github.io/udlbook/)
 ## artificial intelligence foundation of computational agents
 1. [artificial intelligence foundation of computational agents (latex detailed slides: teaching just following, code)](https://www.artint.info/3e/slides/index.html)
 ## 矩阵微积分的机器学习课程
 1. MIT课程（录像及transcripts) ["Matrix Calculus For Machine Learning And Beyond"](https://ocw.mit.edu/courses/18-s096-matrix-calculus-for-machine-learning-and-beyond-january-iap-2023/pages/syllabus/)
+   
