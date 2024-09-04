@@ -1,3 +1,14 @@
+# review paper
+organize students to write review paper
+1) 制定方案
+   
+     a) 确定多个小主题（围绕熟悉的大主题）
+
+     b) 搜集文献
+
+     c) 理解并绘制历史图及算法关系图和问题
+
+     d) 可能的研究方向
 # generative AI
 1) 基于混合高斯的随机编码器的自编码器：
    
