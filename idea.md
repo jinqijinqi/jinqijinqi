@@ -16,7 +16,7 @@ organize students to write review paper
 
 # 改进softmax
 
-1）使用ReLu加上归一化再加上对分数的稀疏限制，可以达到稀疏softmax的目的，参考文献[Sparse-softmax: A Simpler and Faster Alternative Softmax Transformation 2022](https://arxiv.org/pdf/2112.12433), [Adaptive Sparse Softmax: An Effective and Efficient Softmax Variant for Text Classification 2023](https://openreview.net/forum?id=5cio7DSIXLQ), [MultiMax: Sparse and Multi-Modal Attention Learning 2024](https://arxiv.org/pdf/2406.01189), [Exploring Alternatives to Softmax Function 2020](https://paperswithcode.com/paper/exploring-alternatives-to-softmax-function),[通向概率分布之路：盘点Softmax及其替代品](https://spaces.ac.cn/archives/10145)
+1）直接稀疏化softmax的输出，参考文献[Sparse-softmax: A Simpler and Faster Alternative Softmax Transformation 2022](https://arxiv.org/pdf/2112.12433), [Adaptive Sparse Softmax: An Effective and Efficient Softmax Variant for Text Classification 2023](https://openreview.net/forum?id=5cio7DSIXLQ), [MultiMax: Sparse and Multi-Modal Attention Learning 2024](https://arxiv.org/pdf/2406.01189), [Exploring Alternatives to Softmax Function 2020](https://paperswithcode.com/paper/exploring-alternatives-to-softmax-function),[通向概率分布之路：盘点Softmax及其替代品](https://spaces.ac.cn/archives/10145)
 
 
 # generative AI
@@ -68,6 +68,19 @@ organize students to write review paper
 1）[Unrolled Compressed Blind-Deconvolution TSP2023](https://ieeexplore.ieee.org/document/10132064), [Learning-Based Reconstruction of FRI Signals TSP2023](https://ieeexplore.ieee.org/document/10169093#citations)[An Efficient Estimation Method for the Model Order of FRI Signal Based on Sub-Nyquist Sampling TIM2023)[https://ieeexplore.ieee.org/document/10267985), [Parameter Estimation of Hybrid LFM and MPSK Pulse Sequences Based on Sub-Nyquist Sampling TIM2024](https://ieeexplore.ieee.org/document/10648820) [VDIP-TGV: Blind Image Deconvolution via Variational Deep Image Prior Empowered by Total Generalized Variation 2023](https://arxiv.org/abs/2310.19477), [Blind Image Deconvolution Using Variational Deep Image Prior TPAMI 2023](https://ieeexplore.ieee.org/document/10146429/citations?tabFilter=papers#citations), [RPIR: A Semiblind Unsupervised Learning Image Restoration Method for Optical Synthetic Aperture Imaging Systems With Co-Phase Errors 2024](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10645065), [IMU-Assisted Accurate Blur Kernel Re-Estimation in Non-Uniform Camera Shake Deblurring TIP 2024](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10558778), 通过变分贝叶斯扩展
 
 2) __用贝叶斯压缩盲去卷积扩展如下列表中的去卷积方法(产生很多论文）__ [A curated list of resources for Image and Video Deblurring (code)](https://github.com/subeeshvasu/Awesome-Deblurring)
+
+# 神经网络训练
+
+1）__多专家神经网络___：对于全体样本尽量增广训练简单的神经网络，根据ostu方法自动分割输出分数的熵图，将熵高的样本用于训练第二个神经网络，依次直到样本数较少为止，在测试时，根据训练过程依次用多个网络进行测试，取熵最小的结果。或者依次测试，如果熵不达要求（超过阀值），则测试下一个，如果所有都不达要求，则取熵最小的结果。
+
+2）__基于相位和神经网络峰值检测的图像校准__： 利用基于相位的图像对齐方法生成仿真图像，然后训练神经网络进行峰值检测，达到图像校准的目的。
+
+3）__基于图像对齐的神经网络测试__: 对于用增广样本训练好的网络，对图像进行分类检测，如果分类检测的分类熵较大，则根据可能的前几个分类模板平均图像对待测图像校准，之后再分类检测，得到结果
+
+4）__小样本训练半监督__: 增广样本训练，然后对未标记样本进行分类，对未标记样本使用分数自适应加权其损失函数对原网络进行训练，这样确定性的样本贡献较大，如果训练准确度为100%，则继续增加样本，如果训练有误不收敛，
+则对训练样本分类，移除错分的样本。
+
+5）__基于变分混合高斯聚类指导的无监督神经网络学习__: 使用变分高斯提供训练样本，训练神经网络
 
 
 
