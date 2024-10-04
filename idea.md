@@ -18,9 +18,15 @@ organize students to write review paper
 
 1）[Synthesis and Reconstruction of Fingerprints using Generative Adversarial Networks 细节点控制](https://github.com/rafaelbou/fingerprint-generator/)
 
-# 图像融合
+2）[Enhancing Fingerprint Image Synthesis with GANs, Diffusion Models, and Style Transfer Techniques](https://arxiv.org/pdf/2403.13916)
+
+# 图像融合e
 
 1）cyclegan and stylegan 图像同时融合与增强
+
+2) [Unpaired high-quality image-guided infrared and visible image fusion via generative adversarial network 2024](https://www.sciencedirect.com/science/article/pii/S0167839624000591?dgcid=rss
+
+3) [CycleFusion: Automatic Annotation and Graph-to-Graph Transaction Based Cycle-Consistent Adversarial Network for Infrared and Visible Image Fusion 2024 IEEE TETCI](https://ieeexplore.ieee.org/document/10526484)
 
 # 改进softmax
 
