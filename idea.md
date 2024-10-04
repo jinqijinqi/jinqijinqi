@@ -14,6 +14,14 @@ organize students to write review paper
 
 1）找到领域近两年的精典文献，仔细总结研究历史和发展，以前两年文献为基础，查找引用它的相关文献直到当前，理解其研究扩展思路得到启发。
 
+# 指纹
+
+1）[Synthesis and Reconstruction of Fingerprints using Generative Adversarial Networks 细节点控制](https://github.com/rafaelbou/fingerprint-generator/)
+
+# 图像融合
+
+1）cyclegan and stylegan 图像同时融合与增强
+
 # 改进softmax
 
 1）直接稀疏化softmax的输出，参考文献[Sparse-softmax: A Simpler and Faster Alternative Softmax Transformation 2022](https://arxiv.org/pdf/2112.12433), [Adaptive Sparse Softmax: An Effective and Efficient Softmax Variant for Text Classification 2023](https://openreview.net/forum?id=5cio7DSIXLQ), [MultiMax: Sparse and Multi-Modal Attention Learning 2024](https://arxiv.org/pdf/2406.01189), [Exploring Alternatives to Softmax Function 2020](https://paperswithcode.com/paper/exploring-alternatives-to-softmax-function),[通向概率分布之路：盘点Softmax及其替代品](https://spaces.ac.cn/archives/10145)
