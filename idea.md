@@ -32,6 +32,9 @@ organize students to write review paper
 
 3) [CycleFusion: Automatic Annotation and Graph-to-Graph Transaction Based Cycle-Consistent Adversarial Network for Infrared and Visible Image Fusion 2024 IEEE TETCI](https://ieeexplore.ieee.org/document/10526484)
 
+4) 红外可见光融合退化模型 [A Novel Teacher–Student Framework With Degradation Model for Infrared–Visible Image Fusion](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10522962)
+
+
 # 改进softmax
 
 1）直接稀疏化softmax的输出，参考文献[Sparse-softmax: A Simpler and Faster Alternative Softmax Transformation 2022](https://arxiv.org/pdf/2112.12433), [Adaptive Sparse Softmax: An Effective and Efficient Softmax Variant for Text Classification 2023](https://openreview.net/forum?id=5cio7DSIXLQ), [MultiMax: Sparse and Multi-Modal Attention Learning 2024](https://arxiv.org/pdf/2406.01189), [Exploring Alternatives to Softmax Function 2020](https://paperswithcode.com/paper/exploring-alternatives-to-softmax-function),[通向概率分布之路：盘点Softmax及其替代品](https://spaces.ac.cn/archives/10145)
