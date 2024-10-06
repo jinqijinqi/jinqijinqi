@@ -14,6 +14,10 @@ organize students to write review paper
 
 1）找到领域近两年的精典文献，仔细总结研究历史和发展，以前两年文献为基础，查找引用它的相关文献直到当前，理解其研究扩展思路得到启发。
 
+# 基于styleGAN的图像逆问题
+
+1）[Robust Unsupervised StyleGAN Image Restoration 2024 CVPR](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10205099)
+
 # 指纹
 
 1）[Synthesis and Reconstruction of Fingerprints using Generative Adversarial Networks 细节点控制](https://github.com/rafaelbou/fingerprint-generator/)
