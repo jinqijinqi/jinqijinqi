@@ -381,7 +381,8 @@ Classification"](https://ccia.ugr.es/vip/resources/BAL.html)
   7. [Get started with WebRTC](https://web.dev/webrtc-basics/)
   8. 5G 和Wifi6无线组网WebRTC监控平台：结合2中的方法，用wifi6 路由器连接本地多个摄像头，然后用5G网关连接互联网，用WEBRTC 通信，做到无布线。
   9. [red5 media server: Live video streaming solved. Broadcast video to millions in under 500 milliseconds](https://github.com/Red5/red5-server)
-  10. [python aiortc for webrtc and ortc](https://github.com/aiortc/aiortc) 
+  10. [python aiortc for webrtc and ortc](https://github.com/aiortc/aiortc)
+  11. [Coturn 服务器](https://github.com/coturn/coturn)
 
 ## AI model deployment and Lab Website (all student projects required to deploy here)
 1. [streamlit: simple and free and can be deployed in local server (nginx inverse proxy for intranet)](https://streamlit.io/);
