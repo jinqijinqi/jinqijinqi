@@ -1,3 +1,8 @@
+## 学生按排：
+1. 王俊杰，毕业设计及留学生，WebRTC嵌入式人员检测计数及表情识别
+2. 张凡，毕业设计及留学生，WebRTC嵌入式人员检测计数及表情识别
+
+
 ## 格院2023科研见习项目 （论文为主）
 李小龙，蒲志聪,杨立兆，冯建刚，邹筱甫
 1. 细胞核分割: nature methods: [Omnipose: a high-precision morphology-independent solution for bacterial cell segmentation](https://www.nature.com/articles/s41592-022-01639-4)
