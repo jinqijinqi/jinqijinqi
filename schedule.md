@@ -29,6 +29,8 @@
 1. [artificial intelligence foundation of computational agents (latex detailed slides: teaching just following, code)](https://www.artint.info/3e/slides/index.html)
 ## Machine learning or deep learning
 1. [understand deep leanring (code, ppt, book, problem, solution)](https://udlbook.github.io/udlbook/)
+2. [Applied Machine Learning (Fall 2022, slides)](https://www.seas.upenn.edu/~cis5190/fall2022/schedule.html)
+3. [Applied Machine Learning (Cornell CS5785, Fall 2024, code with slides)](https://github.com/kuleshov/cornell-cs5785-2024-applied-ml/tree/main)
 ## 矩阵微积分的机器学习课程
 1. MIT课程（录像及transcripts) ["Matrix Calculus For Machine Learning And Beyond"](https://ocw.mit.edu/courses/18-s096-matrix-calculus-for-machine-learning-and-beyond-january-iap-2023/pages/syllabus/)
    
