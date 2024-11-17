@@ -4,7 +4,7 @@
 
 
 ## 格院2023科研见习项目 （论文为主）
-李小龙，蒲志聪,杨立兆，冯建刚，邹筱甫
+李小龙
 1. 细胞核分割: nature methods: [Omnipose: a high-precision morphology-independent solution for bacterial cell segmentation](https://www.nature.com/articles/s41592-022-01639-4)
 2. 自动指纹识别: 1)指纹仿真及数据库开发；2）基于仿真的数据开发基于深度学习的指纹处理及识别方法; 3)[Synthesis and Reconstruction of Fingerprints using
 Generative Adversarial Networks(代码，基于GAN的指纹合成及身份细节保持而外观变化的仿真](https://arxiv.org/pdf/2201.06164.pdf) 4）[Fingerprint dataset collection](https://github.com/robertvazan/fingerprint-datasets); [IIT latent fingerprint/biometric database with minutiae and mask](https://iab-rubric.org/resources/all-resources); 5) we accidentally find GAN could be used for fingerprint image enhancement if learning with our master fingerprint.
@@ -25,6 +25,7 @@ Dynamic Clustering(pami2024, code and data)](https://ieeexplore.ieee.org/stamp/s
    9) 基于cycleGAN的红外与可见光图像融合： cyclegan输入为红外与可见光，输出为高质量的清晰图像（来自coco等数据集）， IEEE Trans.
    10) lipschitz exponent estimation: ![code](https://github.com/rafael-glima/Wavelet-Based-Denoising-MATLAB-Code?tab=readme-ov-file); [Calibrating image roughness by estimating Lipschitz exponents, with applications to image restoration](https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=51213)
    11) edge detection with wavelet transform modulus maxima: ![code](https://github.com/tdextrous/edge-detection-wavelets)
+   12) Autoencoder based image fusion: 编码器生成融合图像，解码器生成输入图像，在融合图像与源图像建立损失，在解码图像与源图像建立损失，参考文献[code 'SDNet: A Versatile Squeeze-and-Decomposition Network for Real-Time Image Fusion"](https://link.springer.com/article/10.1007/s11263-021-01501-8)
 5. reinforcement learning for image enhancement: refer to our paper [AUTOMATIC IMAGE CONTRAST ENHANCEMENT BASED ON REINFROCEMENT LEARNING](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10016571)
 6. 2023(segmentation) refer to [seUNet-Trans: A Simple yet Effective UNet-Transformer Model for Medical Image Segmentation](https://arxiv.org/pdf/2310.09998.pdf)
 
