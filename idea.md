@@ -107,8 +107,8 @@ organize students to write review paper
 
 1) 建立分类映射模型 $p_i=f(x_i,\theta)$ , 其中 $p_i$ 是概率向量softmax；
 2) 构建目标函数
-     $$ J(\theta)=\sum_{i,k} $$
-    $$ J(\theta)=\sum_{i,k}||x_i*p_i^k-\sum_{j=1}^N x_j*p_j^k||_2^2 $$
+
+    $$J(\theta)=\sum_{i,k}||x_i p_i^k-\sum_{j=1}^N x_j p_j^k||_2^2$$
 
    并优化得到 $p_i=f(x_i,\theta)$ 分类器
 
