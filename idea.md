@@ -103,6 +103,11 @@ organize students to write review paper
 
 5）__基于变分混合高斯聚类指导的无监督神经网络学习__: 使用变分高斯提供训练样本，训练神经网络
 
+# 基于深度学习的K-means
+
+1) 建立分类映射模型$p_i=f(x_i,\theta)$, 其中$p_i$ 是概率向量softmax；
+2) 构建目标函数 $J(\theta)=\sum_{i,k}||x_i*p_i^k-\sum_{j=1}^N x_j*p_j^k||_2^2$,并优化得到$p_i=f(x_i,\theta)$分类器
+
 
 
    
