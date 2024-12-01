@@ -4,6 +4,8 @@
 ## 雷达入门经典推荐
 1. 现代雷达分析与设计（陈伯孝）
 2. 雷达原理（丁鹭飞）
+## 雷达课程(ppt, pdf)
+1. [Introduction to radar system](http://www.radar-course.org/Radar%202010%20PDFs/Radar%202009%20A%20_1%20Introduction.pdf)
 ## 29 所专利
 ## 大模型课程
 1. refer to coursera [applied AI](https://www.coursera.org/professional-certificates/applied-artifical-intelligence-ibm-watson-ai)
