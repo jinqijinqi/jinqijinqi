@@ -1,6 +1,12 @@
 ##微信公众号付费阅读
 1. 找书： https://bookdownload.shop/
 2. 翻译、理解、修改， 上线付费
+
+## Nocode AI  For K12 (部署和商业模式） 
+1. [scratch for game and teaching](https://scratch.mit.edu/)
+2. [ML for kids (model training and book)](https://machinelearningforkids.co.uk/#!/about)
+3. [teachable machine](https://teachablemachine.withgoogle.com/)
+
 ## 雷达入门经典推荐
 1. 现代雷达分析与设计（陈伯孝）
 2. 雷达原理（丁鹭飞）
