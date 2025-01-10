@@ -394,6 +394,8 @@ Classification"](https://ccia.ugr.es/vip/resources/BAL.html)
   9. [red5 media server: Live video streaming solved. Broadcast video to millions in under 500 milliseconds](https://github.com/Red5/red5-server)
   10. [python aiortc for webrtc and ortc](https://github.com/aiortc/aiortc)
   11. [Coturn 服务器](https://github.com/coturn/coturn)
+  12. [WebRTC 视频聊天示例：全部代码](https://developer.mozilla.org/zh-CN/docs/Web/API/WebRTC_API/Signaling_and_video_calling)
+  13. [How to stream an IP Camera to a website via WebRTC (Free software)](https://learncctv.com/ip-camera-stream-to-website/)
 
 ## AI model deployment and Lab Website (all student projects required to deploy here)
 1. [streamlit: simple and free and can be deployed in local server (nginx inverse proxy for intranet)](https://streamlit.io/);
