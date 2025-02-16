@@ -20,7 +20,7 @@
 
 __9. optics express (2 month, top 2区)__; 
 
-__10. IEEE Sensors journal(Q2,2months,semimonthly)__;
+__10. IEEE Sensors journal(Q2, image related topic, 2months,semimonthly)__;
 
 __11. Remote sensing (Q2,2months)__; 
 
@@ -38,7 +38,6 @@ __17. Biomedical optics express (Q2 fast)__
 
 18. Biomedical Signal Processing and Control(Q2, fast)
 
-19. IEEE Sensors Journal (Q2, fast, image related topic)
 
 # 参考 [DynGAN: Solving Mode Collapse in GANs with Dynamic Clustering(code, pami2024)](https://ieeexplore.ieee.org/document/10440507)
 
