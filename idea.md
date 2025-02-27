@@ -14,6 +14,11 @@ organize students to write review paper
 
 1）找到领域近两年的精典文献，仔细总结研究历史和发展，以前两年文献为基础，查找引用它的相关文献直到当前，理解其研究扩展思路得到启发。
 
+# 基于KAN+Sparse Bayesian的模型改造
+
+1) (2024) [KAN: Kolmogorov-Arnold Networks](https://arxiv.org/abs/2404.19756). [KAN-Tutorial(code)](https://github.com/pg2455/KAN-Tutorial)
+
+
 # 基于styleGAN的图像逆问题
 
 1）[Robust Unsupervised StyleGAN Image Restoration 2024 CVPR](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10205099)
@@ -111,6 +116,8 @@ organize students to write review paper
     $$J(\theta)=\sum_{i,k}||x_i p_i^k-\sum_{j=1}^N x_j p_j^k||_2^2$$
 
    并优化得到 $p_i=f(x_i,\theta)$ 分类器
+
+
 
 
 
