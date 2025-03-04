@@ -39,6 +39,10 @@ organize students to write review paper
 
 4) 红外可见光融合退化模型 [A Novel Teacher–Student Framework With Degradation Model for Infrared–Visible Image Fusion](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10522962)
 
+5) 用现有分割方法检测原图清晰或具有重要信息的部分，用清晰部分指导神经网络融合图像，这就是部分监督训练方法并利用了神经网络的插值能力。[PR2025:MMAE: A universal image fusion method via mask attention mechanism(code)](https://www.sciencedirect.com/science/article/pii/S0031320324007921) ：该文章的二值MASK具有排它性，并且在学习阶段需要标注MASK.
+
+6) 对于多聚焦融合，我们可以用分割网络推广我们基于模糊检测的融合方法  
+
 
 # 改进softmax
 
