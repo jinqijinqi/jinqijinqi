@@ -43,6 +43,7 @@ __17. Biomedical optics express (Q2 fast)__
    
 20. [Neuroscience Letters(35days,Q4)](https://www.sciencedirect.com/journal/neuroscience-letters/vol/851/suppl/C)
     example paper: [Deep learning based diagnosis of Alzheimer’s disease using FDG-PET images](https://www.sciencedirect.com/science/article/abs/pii/S0304394023004895)
+21. [Physics in Medicine & Biology(50days, Q3)]
 
 
 # 参考 [DynGAN: Solving Mode Collapse in GANs with Dynamic Clustering(code, pami2024)](https://ieeexplore.ieee.org/document/10440507)
