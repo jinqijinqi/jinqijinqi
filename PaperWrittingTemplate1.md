@@ -37,6 +37,12 @@ __16. IEEE signal processing letter (Q2)__;
 __17. Biomedical optics express (Q2 fast)__
 
 18. Biomedical Signal Processing and Control(Q2, fast)
+19. [Journal of Neural Engineering( median 47 days, Q2)](https://iopscience.iop.org/article/10.1088/1741-2552/aca2de)
+   
+   example paper: [MRASleepNet: A multi-resolution attention network for sleep stage classification using single-channel EEG](https://iopscience.iop.org/article/10.1088/1741-2552/aca2de)
+   
+20. [Neuroscience Letters(35days,Q4)](https://www.sciencedirect.com/journal/neuroscience-letters/vol/851/suppl/C)
+    example paper: [Deep learning based diagnosis of Alzheimer’s disease using FDG-PET images](https://www.sciencedirect.com/science/article/abs/pii/S0304394023004895)
 
 
 # 参考 [DynGAN: Solving Mode Collapse in GANs with Dynamic Clustering(code, pami2024)](https://ieeexplore.ieee.org/document/10440507)
