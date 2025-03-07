@@ -1,5 +1,9 @@
-**Image Fusion**
-**Cell/Nuclei Segmentation**
-**Fingerprint Recogition**
-**Facial Expression Recogition**
-**AI Based Radar Signal Generation**
+1. **Image Fusion**
+
+2. **Cell/Nuclei Segmentation**
+
+3. **Fingerprint Recogition**
+
+4. **Facial Expression Recogition**
+
+5. **AI Based Radar Signal Generation**
