@@ -41,7 +41,9 @@ organize students to write review paper
 
 5) 用现有分割方法检测原图清晰或具有重要信息的部分，用清晰部分指导神经网络融合图像，这就是部分监督训练方法并利用了神经网络的插值能力。[PR2025:MMAE: A universal image fusion method via mask attention mechanism(code)](https://www.sciencedirect.com/science/article/pii/S0031320324007921) ：该文章的二值MASK具有排它性，并且在学习阶段需要标注MASK.
 
-6) 对于多聚焦融合，我们可以用分割网络推广我们基于模糊检测的融合方法  
+6) 对于多聚焦融合，我们可以用分割网络推广我们基于模糊检测的融合方法
+
+7) 图像增强与融合[LEFuse: Joint low-light enhancement and image fusion for nighttime infrared and visible images(2025 neurocomputing, code](https://www.sciencedirect.com/science/article/pii/S0925231225002644)
 
 
 # 改进softmax
