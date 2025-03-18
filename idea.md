@@ -82,6 +82,7 @@ organize students to write review paper
     a) 基于少量数据训练CGAN，并扩充数据，再训练，再扩充；循环直到满足需要；b)对非标注数据进行分类，选择分类值信度高的样本到相应的类别中，增加样本数据；c) 利用GAN也可以扩充非标注数据
 6) 多标签混合监督非监督CGAN
     a) 对于真实条件样本，使用类别监督和真实与非真实非监督，即两个标签；b)对于非真实条件样本，使用类别和非真实两个标签训练
+7) GAN or CGAN mode collapsing problem solution: 1) treat each sample as a class and train CGAN; 2) the discriminator from CGAN could be used as classifier by inputing the test sample with possbile class combination and find the most possible combination to obtain class label; need to compare with conventional trained classifier; 3) using cycle consitency loss to deal with mode collapse: two training cycles from A to B to A and from B to A to B
 
 # 基于稀疏的个数自动选择
 
