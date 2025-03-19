@@ -83,6 +83,7 @@ organize students to write review paper
 6) 多标签混合监督非监督CGAN
     a) 对于真实条件样本，使用类别监督和真实与非真实非监督，即两个标签；b)对于非真实条件样本，使用类别和非真实两个标签训练
 7) GAN or CGAN mode collapsing problem solution: 1) treat each sample as a class and train CGAN; 2) the discriminator from CGAN could be used as classifier by inputing the test sample with possbile class combination and find the most possible combination to obtain class label; need to compare with conventional trained classifier; 3) using cycle consitency loss to deal with mode collapse: two training cycles from A to B to A and from B to A to B
+8) Reconstruction GAN from Both  Sides: from A to B to reconstruct A and from B to A to reconstruct B; A is a set of samples from standard normal distribution, B is a set of true data. similar to denoising diffusion model but much different. use this to improve VAE.
 
 # 基于稀疏的个数自动选择
 
