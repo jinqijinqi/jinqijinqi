@@ -84,7 +84,9 @@ organize students to write review paper
     a) 对于真实条件样本，使用类别监督和真实与非真实非监督，即两个标签；b)对于非真实条件样本，使用类别和非真实两个标签训练
 7) GAN or CGAN mode collapsing problem solution: 1) treat each sample as a class and train CGAN; 2) the discriminator from CGAN could be used as classifier by inputing the test sample with possbile class combination and find the most possible combination to obtain class label; need to compare with conventional trained classifier; 3) using cycle consitency loss to deal with mode collapse: two training cycles from A to B to A and from B to A to B
 8) Reconstruction GAN from Both  Sides: from A to B to reconstruct A and from B to A to reconstruct B; A is a set of samples from standard normal distribution, B is a set of true data. similar to denoising diffusion model but much different. use this to improve VAE.
-9) GAN 从图像开始: 从图像开始通过生成器生成噪声，然后噪声又重构图像，训练结束，记录图像在噪声域的分布样本，然后可以根据噪声样本生成图像
+9) AAE改进： 添加一个区分器区分生成的样本，同时采样先验分布对解码器GAN进行训练，就可以联合VAE的避免模式崩塌能力和GAN的高质量图像生成能力.
+10) GAN 改进： 从x=G(z),区分x与真实数据, 然后z1=F(x)，区分z1和标准正态
+11) remark： 模式崩塌不可避免，它的好处是可以生成高质量样本，坏处是样本缺少多样性，但是质量与多样性应该是一种折中，AAE和GAN改进就是这种折中。
 
 # 基于稀疏的个数自动选择
 
