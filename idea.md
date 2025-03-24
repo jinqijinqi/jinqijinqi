@@ -88,6 +88,7 @@ organize students to write review paper
 10) GAN 改进： 从x=G(z),区分x与真实数据, 然后z1=F(x)，区分z1和标准正态
 11) remark： 模式崩塌不可避免，它的好处是可以生成高质量样本，坏处是样本缺少多样性，但是质量与多样性应该是一种折中，AAE和GAN改进就是这种折中。
 12) 我们可以对生成器生成的图像加上自然图像限制，从而约束生成模型
+13) 利用噪声注入改善GAN，VAE, diffusion model: 参考styleGAN.
 
 # 基于稀疏的个数自动选择
 
