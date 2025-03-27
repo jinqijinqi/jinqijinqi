@@ -45,6 +45,7 @@ organize students to write review paper
 
 7) 图像增强与融合[LEFuse: Joint low-light enhancement and image fusion for nighttime infrared and visible images(2025 neurocomputing, code](https://www.sciencedirect.com/science/article/pii/S0925231225002644)
 
+8) 基于fast style transfer network 的图像融合： 1）输入图像红外与可见光，输出图像逼近我们分割强化后加权的初始融合图像；2）网络图像可以是我们初始融合后图像的直方图均衡图像，参考[https://ww2.mathworks.cn/help/deeplearning/ug/train-fast-style-transfer-network.html](https://ww2.mathworks.cn/help/deeplearning/ug/train-fast-style-transfer-network.html)
 
 # 改进softmax
 
