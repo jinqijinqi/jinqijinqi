@@ -47,6 +47,7 @@ organize students to write review paper
 
 8) 基于fast style transfer network 的图像融合： 1）输入图像红外与可见光，输出图像逼近我们分割强化后加权的初始融合图像；2）网络图像可以是我们初始融合后图像的直方图均衡图像，参考[https://ww2.mathworks.cn/help/deeplearning/ug/train-fast-style-transfer-network.html](https://ww2.mathworks.cn/help/deeplearning/ug/train-fast-style-transfer-network.html)
 9) [EV-Fusion: A Novel Infrared and Low-Light Color Visible Image Fusion Network Integrating Unsupervised Visible Image Enhancement(IEEE Sensor journal 2024 codes](https://ieeexplore.ieee.org/document/10380532)
+10) diffusion model for image fusion: with our psuedo groundth truth fusion image, we can build conditional diffusion model for IVIF problem [LFDT-Fusion: A latent feature-guided diffusion Transformer model for general image fusion (code 2025 IF)](https://www.sciencedirect.com/science/article/pii/S1566253524004172) [DDFM: Denoising Diffusion Model for Multi-Modality Image Fusion (2023 ICCV code)](https://openaccess.thecvf.com/content/ICCV2023/html/Zhao_DDFM_Denoising_Diffusion_Model_for_Multi-Modality_Image_Fusion_ICCV_2023_paper.html) [Dif-Fusion: Toward High Color Fidelity in Infrared and Visible Image Fusion With Diffusion Models (2023 TIP code)](https://ieeexplore.ieee.org/abstract/document/10286359)
 
 # 改进softmax
 
