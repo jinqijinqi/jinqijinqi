@@ -46,8 +46,12 @@ organize students to write review paper
 7) 图像增强与融合[LEFuse: Joint low-light enhancement and image fusion for nighttime infrared and visible images(2025 neurocomputing, code](https://www.sciencedirect.com/science/article/pii/S0925231225002644)
 
 8) 基于fast style transfer network 的图像融合： 1）输入图像红外与可见光，输出图像逼近我们分割强化后加权的初始融合图像；2）网络图像可以是我们初始融合后图像的直方图均衡图像，参考[https://ww2.mathworks.cn/help/deeplearning/ug/train-fast-style-transfer-network.html](https://ww2.mathworks.cn/help/deeplearning/ug/train-fast-style-transfer-network.html)
+
 9) [EV-Fusion: A Novel Infrared and Low-Light Color Visible Image Fusion Network Integrating Unsupervised Visible Image Enhancement(IEEE Sensor journal 2024 codes](https://ieeexplore.ieee.org/document/10380532)
+
 10) diffusion model for image fusion: with our psuedo groundth truth fusion image, we can build conditional diffusion model for IVIF problem [LFDT-Fusion: A latent feature-guided diffusion Transformer model for general image fusion (code 2025 IF)](https://www.sciencedirect.com/science/article/pii/S1566253524004172) [DDFM: Denoising Diffusion Model for Multi-Modality Image Fusion (2023 ICCV code)](https://openaccess.thecvf.com/content/ICCV2023/html/Zhao_DDFM_Denoising_Diffusion_Model_for_Multi-Modality_Image_Fusion_ICCV_2023_paper.html) [Dif-Fusion: Toward High Color Fidelity in Infrared and Visible Image Fusion With Diffusion Models (2023 TIP code)](https://ieeexplore.ieee.org/abstract/document/10286359)
+
+11) 14) AC-GAN + fake 类= more stability+ fast converging+ intra class diversity+ class consistent: 添加异常类的ACGAN是对ACGAN的扩充，基于此有无穷多应用：a) AC-GAN 模型改进；b) 数据扩充（类平衡与非平衡）；c）混合生成与分类模型训练；d) 开集识别与异常类检测；e) 图像融合：输入红外与可见光，分类红外、可见光、fake、truthorfalse四类；[Conditional GANs with Auxiliary Discriminative Classifier](https://proceedings.mlr.press/v162/hou22a.html)
 
 # 改进softmax
 
@@ -92,6 +96,7 @@ organize students to write review paper
 11) remark： 模式崩塌不可避免，它的好处是可以生成高质量样本，坏处是样本缺少多样性，但是质量与多样性应该是一种折中，AAE和GAN改进就是这种折中。
 12) 我们可以对生成器生成的图像加上自然图像限制，从而约束生成模型
 13) 利用噪声注入改善GAN，VAE, diffusion model: 参考styleGAN.
+14) AC-GAN + fake 类= more stability+ fast converging+ intra class diversity+ class consistent: 添加异常类的ACGAN是对ACGAN的扩充，基于此有无穷多应用：a) AC-GAN 模型改进；b) 数据扩充（类平衡与非平衡）；c）混合生成与分类模型训练；d) 开集识别与异常类检测；e) 图像融合：输入红外与可见光，分类红外、可见光、fake、truthorfalse四类；[Conditional GANs with Auxiliary Discriminative Classifier](https://proceedings.mlr.press/v162/hou22a.html)
 
 # 基于稀疏的个数自动选择
 
