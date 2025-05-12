@@ -51,7 +51,9 @@ organize students to write review paper
 
 10) diffusion model for image fusion: with our psuedo groundth truth fusion image, we can build conditional diffusion model for IVIF problem [LFDT-Fusion: A latent feature-guided diffusion Transformer model for general image fusion (code 2025 IF)](https://www.sciencedirect.com/science/article/pii/S1566253524004172) [DDFM: Denoising Diffusion Model for Multi-Modality Image Fusion (2023 ICCV code)](https://openaccess.thecvf.com/content/ICCV2023/html/Zhao_DDFM_Denoising_Diffusion_Model_for_Multi-Modality_Image_Fusion_ICCV_2023_paper.html) [Dif-Fusion: Toward High Color Fidelity in Infrared and Visible Image Fusion With Diffusion Models (2023 TIP code)](https://ieeexplore.ieee.org/abstract/document/10286359)
 
-11) 14) AC-GAN + fake 类= more stability+ fast converging+ intra class diversity+ class consistent: 添加异常类的ACGAN是对ACGAN的扩充，基于此有无穷多应用：a) AC-GAN 模型改进；b) 数据扩充（类平衡与非平衡）；c）混合生成与分类模型训练；d) 开集识别与异常类检测；e) 图像融合：输入红外与可见光，分类红外、可见光、fake、truthorfalse四类；[Conditional GANs with Auxiliary Discriminative Classifier](https://proceedings.mlr.press/v162/hou22a.html)
+11) AC-GAN + fake 类= more stability+ fast converging+ intra class diversity+ class consistent: 添加异常类的ACGAN是对ACGAN的扩充，基于此有无穷多应用：a) AC-GAN 模型改进；b) 数据扩充（类平衡与非平衡）；c）混合生成与分类模型训练；d) 开集识别与异常类检测；e) 图像融合：输入红外与可见光，分类红外、可见光、fake、truthorfalse四类；[Conditional GANs with Auxiliary Discriminative Classifier](https://proceedings.mlr.press/v162/hou22a.html)
+
+12) 基于软或自适应直方图的图像融合
 
 # 改进softmax
 
