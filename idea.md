@@ -118,6 +118,8 @@ organize students to write review paper
 
 2) __用贝叶斯压缩盲去卷积扩展如下列表中的去卷积方法(产生很多论文）__ [A curated list of resources for Image and Video Deblurring (code)](https://github.com/subeeshvasu/Awesome-Deblurring)
 
+3) 针对非限制采样和FRI信号的压缩去卷积及盲去卷积及贝叶斯，[Deep Learning for Modulo Sampling of FRI Signals ICASSP2025](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10890151) [Noise-Resilient Unlimited Sampling and Recovery of Sparse Signals](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10888741) [Unrolled Compressed Blind-Deconvolution](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10132064) [Compressed Sensing Based Residual Recovery Algorithms and Hardware for Modulo Sampling](https://arxiv.org/abs/2412.12724)
+
 # 神经网络训练
 
 1）__多专家神经网络___：对于全体样本尽量增广训练简单的神经网络，根据ostu方法自动分割输出分数的熵图，将熵高的样本用于训练第二个神经网络，依次直到样本数较少为止，在测试时，根据训练过程依次用多个网络进行测试，取熵最小的结果。或者依次测试，如果熵不达要求（超过阀值），则测试下一个，如果所有都不达要求，则取熵最小的结果。
