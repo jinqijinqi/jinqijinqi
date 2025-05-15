@@ -118,7 +118,7 @@ organize students to write review paper
 
 2) __用贝叶斯压缩盲去卷积扩展如下列表中的去卷积方法(产生很多论文）__ [A curated list of resources for Image and Video Deblurring (code)](https://github.com/subeeshvasu/Awesome-Deblurring)
 
-3) 针对非限制采样和FRI信号的压缩去卷积及盲去卷积及贝叶斯，[Deep Learning for Modulo Sampling of FRI Signals ICASSP2025](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10890151) [Noise-Resilient Unlimited Sampling and Recovery of Sparse Signals](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10888741) [Unrolled Compressed Blind-Deconvolution](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10132064) [Compressed Sensing Based Residual Recovery Algorithms and Hardware for Modulo Sampling](https://arxiv.org/abs/2412.12724)
+3) 针对非限制采样和FRI信号的压缩去卷积及盲去卷积及贝叶斯[code](http://alumni.media.mit.edu/~ayush/USF_RR_Code/TSPCode/Demo_Code.html)，[Deep Learning for Modulo Sampling of FRI Signals ICASSP2025](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10890151) [Noise-Resilient Unlimited Sampling and Recovery of Sparse Signals](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10888741) [Unrolled Compressed Blind-Deconvolution](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10132064) [Compressed Sensing Based Residual Recovery Algorithms and Hardware for Modulo Sampling](https://arxiv.org/abs/2412.12724)
 
 # 神经网络训练
 
