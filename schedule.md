@@ -21,6 +21,7 @@
 1. video, transcripts, speech, slides, ppt, handout, notes, code, homework, project from coursera, open coursa, or book website
 2. pdf to ppt (adobe acrobat), video to ppt or image, video to speech, speech to text,text to chinese speech, language translating (transcript, chatgpt, powerpoint), 
 3. book host in github private
+4. 以四大模型[stanford Artificial Intelligence: Principles and Techniques (code, transcripts, slide(pdf), homework, __picked__)](https://stanford-cs221.github.io/spring2024/)为主体，整合[artificial intelligence a modern approach (book,everything)](https://aima.cs.berkeley.edu/instructors.html)和[artificial intelligence foundation of computational agents (latex detailed slides: teaching just following, code)](https://www.artint.info/3e/slides/index.html)的内容，写一本精简的人工智能书，并配上[artificial intelligence foundation of computational agents (latex detailed slides: teaching just following, code)](https://www.artint.info/3e/slides/index.html)的代码
   
 ## Digital Image Processing
 1. [stanford(pdf, codes)](https://web.stanford.edu/class/ee368/handouts.html)
