@@ -5,7 +5,7 @@
 4. [2025-2026-Comparison-of-Blind-Source-Separation-techniques: 7 papers/methods](https://github.com/TUIlmenauAMS/Comparison-of-Blind-Source-Separation-techniques)
 5. Esitmate the blur kernel to extend the paper [Joint Multichannel Deconvolution and Blind Source Separation](https://github.com/CEA-jiangming/DecGMCA?tab=readme-ov-file)
 6. [A Nonconvex Approach for Exact and Efficient Multichannel Sparse Blind Deconvolution (1d and 2D)](https://github.com/qingqu06/MCS-BD/tree/master)
-7. using bayesian version to extend the paper: Multisource Multichannel[Deconvolutional Unrolled Neural Learning (DUNL) for Computational Neuroscience](https://github.com/btolooshams/dunl-compneuro)
+7. using bayesian version to extend the paper(estimate number of sources/kernels; source are gradient sparse, L0 sparse, double sparsity,using selfdeblur): Multisource Multichannel[Deconvolutional Unrolled Neural Learning (DUNL) for Computational Neuroscience](https://github.com/btolooshams/dunl-compneuro)
 8. [Semi-Blind Source Separation with Learned Constraints](https://github.com/RCarloniGertosio/sGMCA)
 9. [Blind Source Separation with Non-Coplanar Interferometric Data](https://github.com/RCarloniGertosio/wGMCA)
 10. [2d-Joint deconvolution and unsupervised source separation for data on the sphere(2d)](https://github.com/RCarloniGertosio/2DecGMCA)
