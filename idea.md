@@ -54,6 +54,7 @@ organize students to write review paper
 11) AC-GAN + fake 类= more stability+ fast converging+ intra class diversity+ class consistent: 添加异常类的ACGAN是对ACGAN的扩充，基于此有无穷多应用：a) AC-GAN 模型改进；b) 数据扩充（类平衡与非平衡）；c）混合生成与分类模型训练；d) 开集识别与异常类检测；e) 图像融合：输入红外与可见光，分类红外、可见光、fake、truthorfalse四类；[Conditional GANs with Auxiliary Discriminative Classifier](https://proceedings.mlr.press/v162/hou22a.html)
 
 12) 基于软或自适应直方图的图像融合
+13) SuperResolution ESRGAN+ LEFuse model[LEFuse: Joint low-light enhancement and image fusion for nighttime infrared and visible images(2025 neurocomputing, code](https://www.sciencedirect.com/science/article/pii/S0925231225002644)
 
 # 改进softmax
 
