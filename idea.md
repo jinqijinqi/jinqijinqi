@@ -149,8 +149,9 @@ organize students to write review paper
 
    并优化得到 $p_i=f(x_i,\theta)$ 分类器
 
-# 穿地雷达
+# 穿地雷达（GPRmax仿真groundtruth)
 1） [seismic-deeplearning（代码，数据，分类，分割）](https://github.com/microsoft/seismic-deeplearning?tab=readme-ov-file#dataset-download-and-preparation)
+2) [Sparse multichannel blind deconvolution of seismic data via spectral projected-gradient (public data)](https://arxiv.org/pdf/1611.03754v4)
 
 
 
