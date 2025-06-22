@@ -149,6 +149,9 @@ organize students to write review paper
 
    并优化得到 $p_i=f(x_i,\theta)$ 分类器
 
+# 穿地雷达
+1） [seismic-deeplearning（代码，数据，分类，分割）](https://github.com/microsoft/seismic-deeplearning?tab=readme-ov-file#dataset-download-and-preparation)
+
 
 
 
