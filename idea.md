@@ -15,6 +15,10 @@ organize students to write review paper
 
 1）找到领域近两年的精典文献，仔细总结研究历史和发展，以前两年文献为基础，查找引用它的相关文献直到当前，理解其研究扩展思路得到启发。
 
+# 深度学习与概率逻辑规则联合学习的通用人工智能
+
+1） [DeepProbLog](https://github.com/ML-KULeuven/deepproblog) 
+
 # 基于KAN+Sparse Bayesian的模型改造
 
 1) (2024) [KAN: Kolmogorov-Arnold Networks](https://arxiv.org/abs/2404.19756). [KAN-Tutorial(code)](https://github.com/pg2455/KAN-Tutorial)
