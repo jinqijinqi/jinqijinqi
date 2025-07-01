@@ -48,7 +48,8 @@ organize students to write review paper
 
 6) 对于多聚焦融合，我们可以用分割网络推广我们基于模糊检测的融合方法
 
-7) 图像增强与融合(直方图均衡)[LEFuse: Joint low-light enhancement and image fusion for nighttime infrared and visible images(2025 neurocomputing, code](https://www.sciencedirect.com/science/article/pii/S0925231225002644)
+7) * **图像增强与融合(直方图均衡)**[LEFuse: Joint low-light enhancement and image fusion for nighttime infrared and visible images(2025 neurocomputing, code](https://www.sciencedirect.com/science/article/pii/S0925231225002644)
+   * **虚拟低级图像处理任务辅助的多任务图像融合** [One Model for ALL: Low-Level Task Interaction Is a Key to Task-Agnostic Image Fusion (2025 CVPR, code](https://github.com/AWCXV/GIFNet)
 
 8) 基于fast style transfer network 的图像融合： 1）输入图像红外与可见光，输出图像逼近我们分割强化后加权的初始融合图像；2）网络图像可以是我们初始融合后图像的直方图均衡图像，参考[https://ww2.mathworks.cn/help/deeplearning/ug/train-fast-style-transfer-network.html](https://ww2.mathworks.cn/help/deeplearning/ug/train-fast-style-transfer-network.html)
 
