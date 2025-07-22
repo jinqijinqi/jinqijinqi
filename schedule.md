@@ -7,6 +7,11 @@
 2. [ML for kids (model training and book)](https://machinelearningforkids.co.uk/#!/about)
 3. [teachable machine](https://teachablemachine.withgoogle.com/)
 
+## 电子工程
+1. 电子工程师自学手册（蔡杏山）
+2. 电子通信系统原理
+3. 仿真工具Falstad： [Falstad](https://www.falstad.com/)
+
 ## 雷达入门经典推荐
 1. 现代雷达分析与设计（陈伯孝）
 2. 雷达原理（丁鹭飞）
