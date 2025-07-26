@@ -11,6 +11,8 @@
 1. 电子工程师自学手册（蔡杏山）
 2. 电子通信系统原理
 3. 仿真工具Falstad： [Falstad](https://www.falstad.com/)
+4. 信号与系统：[台湾](https://homepage.ntu.edu.tw/~fengli/Teaching/SignalsSystems/)
+5. [电路-线性代数-深度学习机器学习人工智能-李宏毅](https://speech.ee.ntu.edu.tw/~hylee/circuit/2014-fall.php)
 
 ## 雷达入门经典推荐
 1. 现代雷达分析与设计（陈伯孝）
