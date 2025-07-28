@@ -13,6 +13,7 @@
 3. 仿真工具Falstad： [Falstad](https://www.falstad.com/)
 4. 信号与系统：[台湾](https://homepage.ntu.edu.tw/~fengli/Teaching/SignalsSystems/)
 5. [电路-线性代数-深度学习机器学习人工智能-李宏毅](https://speech.ee.ntu.edu.tw/~hylee/circuit/2014-fall.php)
+6. [通信原理-城市大学](https://www.ee.cityu.edu.hk/~lindai/teaching-EE3008.htm)
 
 ## 雷达入门经典推荐
 1. 现代雷达分析与设计（陈伯孝）
