@@ -37,6 +37,7 @@
 3. [new mexican u](https://www.cs.nmt.edu/~ip/lectures.html)
 4. reference book:
 [digital image processing 4d(book)(figures in ppt)](https://imageprocessingplace.com/DIP-3E/dip3e_classroom_presentations_downloads.htm)
+5. [digital image processing (South caralina)](https://www.cse.sc.edu/~tongy/csce763/csce763.html)
 ## artificial intelligence: a modern approach
 1. [stanford Artificial Intelligence: Principles and Techniques (code, transcripts, slide(pdf), homework, __picked__)](https://stanford-cs221.github.io/spring2024/)
 2. [berkeley CS Course(code, transcripts, slide(ppt), homework)](https://inst.eecs.berkeley.edu/~cs188/sp24/)
