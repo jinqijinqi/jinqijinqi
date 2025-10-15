@@ -82,13 +82,74 @@ and taxonomy](https://link.springer.com/article/10.1007/s00521-023-08459-3)
 with data augment, learning rate is reduced slowly based on training loss rather than valid/test loss since initial test/valid loss could be much lower than training loss; due to contineous decreasing of learning rate, the model with only training data without validation data is good without overfitting.
 
 
+# 2025
+
+## 雷晨曦
+small infrared object detection
+
+## 舒森鑫 
+
+infrared and visible image fusion
+
+
+## 冉常红
+
+fingerprint simulation
+
+## Imel Anouar, Hamouda Abir
+
+## Khawaja Muhammad Sunabil, Naz Laiba
+
+use NAS to improve nuclei segmentation model: using NAS-SCAM in 1 to improve the method in 2 for nuceli instance segmentation
+reference paper:
+
+  1. [NAS-SCAM: Neural Architecture
+Search-Based Spatial and Channel Joint
+Attention Module for Nuclei Semantic
+Segmentation and Classification(MICCAI2020)](https://github.com/jinqijinqi/jinqijinqi/blob/main/NAS-SCAM.pdf)
+  
+  2. [Integrating deep convolutional neural networks with marker-controlle d watershe d for overlapping nuclei segmentation 
+  in histopathology images(Neurocomputing 2020)](https://github.com/jinqijinqi/jinqijinqi/blob/main/Integrating%20deep%20convolutional%20neural%20networks%20with%20marker-controlled%20watershed%20for%20overlapping%20nuclei%20segmentation%20in%20histopathology%20images.pdf))
+    
+
+# 2024
+------------------------------
+## 张凡 
+nuclei segmentation
+## 王辛睿 
+small infrared object detection
+
+## Ali Usman,Sadiq Zeeshan
+
+UKAN for nuclei segmentation
+
+## Ahmad Muhammad：
+[Hybrid Deep Learning Architecture with Adaptive Feature Fusion for Multi-Stage Alzheimer’s Disease Classification, (Brain Science 2025)](https://www.mdpi.com/2076-3425/15/6/612)
+
+## Jdaba Soufiane
+nuclei segmentation
+
+## Rafique Hafiza Maria
+fingerprint recognition
+
+# Khalil Anees 
+super resolution+ infrared and visible image fusion
 
 # 2023
 --------------------------------
-  ## S M SOLAYMAN HOSSEN ROKIB 
+## 王俊杰
+
+人员检测与计数
+
+## 张敬一
+
+## S M SOLAYMAN HOSSEN ROKIB 
      task: develop road crack detection system
    1. [DeepCrack: Learning Hierarchical Convolutional Features for Crack Detection, IEEE Transactions on Image Processing 2019 (code and dataset)](https://github.com/qinnzou/DeepCrack) 
-     
+
+## Boadu Kwasi Odei
+infrared and visible image fusion
+1. [LEFuse: Joint low-light enhancement and image fusion for nighttime infrared and visible images (codes), 2025(neurocomputing)](https://www.sciencedirect.com/science/article/pii/S0925231225002644)
 
 # 19:00-21:00, 2022/11/3
 ----------------------
