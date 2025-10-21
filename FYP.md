@@ -11,3 +11,14 @@
 10. [成都8-2d-Joint deconvolution and unsupervised source separation for data on the sphere(2d)](https://github.com/RCarloniGertosio/2DecGMCA)
 11. [1d-Joint deconvolution and unsupervised source separation for data on the sphere (1d)](https://github.com/RCarloniGertosio/SDecGMCA)
 12. [海南7-MSSP2025 Classifier-guided neural blind deconvolution-A physics-informed denoising module for bearing fault diagnosis under noisy conditions (https://www.sciencedirect.com/science/article/pii/S0888327024006484)
+
+# final year project SICE 2025-2026
+## multisource and multichannel blind deconvolution
+1. [orchmfbd: a flexible multi-object multi-frame blind deconvolution code](https://github.com/aasensio/torchmfbd)
+2. [Learning to do multiframe blind deconvolution unsupervisedly](https://github.com/aasensio/unsupervisedMFBD?utm_source=chatgpt.com)
+3. [Focused blind deconvolution](https://github.com/pawbz/FocusedBlindDecon.jl?utm_source=chatgpt.com)
+4. [Learning Blind Motion Deblurring](https://github.com/cgtuebingen/learning-blind-motion-deblurring?utm_source=chatgpt.com)
+5. [image restoration](https://zoi.utia.cas.cz/index.php/research/restoration)
+6. [Accelerating Multiframe Blind Deconvolution via Deep Learning](https://github.com/aasensio/neural-MFBD)
+7. [New algorithms for sparse multichannel blind deconvolution](https://github.com/kenjinose/smbd_algorithms)
+8. 
