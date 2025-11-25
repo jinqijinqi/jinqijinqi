@@ -30,6 +30,7 @@
 2. pdf to ppt (adobe acrobat), video to ppt or image, video to speech, speech to text,text to chinese speech, language translating (transcript, chatgpt, powerpoint), 
 3. book host in github private
 4. 以四大模型[stanford Artificial Intelligence: Principles and Techniques (code, transcripts, slide(pdf), homework, __picked__)](https://stanford-cs221.github.io/spring2024/)为主体，整合[artificial intelligence a modern approach (book,everything)](https://aima.cs.berkeley.edu/instructors.html)和[artificial intelligence foundation of computational agents (latex detailed slides: teaching just following, code)](https://www.artint.info/3e/slides/index.html)的内容，写一本精简的人工智能书，并配上[artificial intelligence foundation of computational agents (latex detailed slides: teaching just following, code)](https://www.artint.info/3e/slides/index.html)的代码
+5. 农民书-干货系列: chat+slides: 请深入理解上述所有pdf文件的内容，生成相应的精简黑板板书及可手算的课堂练习，严格与pdf的内容一致，需要入门级的tutorial形式
   
 ## Digital Image Processing
 1. [stanford(pdf, codes)](https://web.stanford.edu/class/ee368/handouts.html)
