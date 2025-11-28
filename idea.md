@@ -23,7 +23,7 @@ organize students to write review paper
 
 1) (2024) [KAN: Kolmogorov-Arnold Networks](https://arxiv.org/abs/2404.19756). [KAN-Tutorial(code)](https://github.com/pg2455/KAN-Tutorial)
 
-# KAN 就是先用一元非线性函数作用，再求加权和，它与通常的MLP、convolution先求线性和，再求非线性，二者形式上非相似，但是前者非线性作用更细，后者作用较粗；在pytorch实现上可以先实现非线性作用，然后再实现卷积, 从页借用现有pytorch架构，提高计算效率
+# KAN 就是先用一元非线性函数作用，再求加权和，它与通常的MLP、convolution先求线性和，再求非线性，二者形式上非常相似，但是前者非线性作用更细，后者作用较粗；在pytorch实现上可以先实现共享基非线性展开，然后再实现标准卷积, 从页借用现有pytorch架构，提高计算效率
 
 # 基于styleGAN的图像逆问题
 
