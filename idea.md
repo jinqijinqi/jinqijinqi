@@ -133,6 +133,10 @@ organize students to write review paper
 7) selfdeblur 改进：1）网络结构可以是无下采样结构，并用我们的方法搜索最佳结构；2）网络性能提升：原来需要对每个图像进行训练，大的时间开销限制应用，现在输入模糊图、噪声图像、FRT（fourier relu transformation)变换后的图像进行训练，训练好的网络可直接用于去模糊，速度很快；3）对于生成模糊核的网络，输入模糊图、噪声和FRT（fourier relu transformation)变换后的图像；4）网络结构也可以是生成图像和模糊核的双分支网络，从而共享特征，在模糊核的分支可以多次输入FRT（fourier relu transformation)变换后的图像；[selfdeblur](https://ieeexplore.ieee.org/document/9156633/citations?tabFilter=papers#citations)
 8) Bayesian version or other extension [2025MSSP-Classifier-guided neural blind deconvolution: A physics-informed denoising module for bearing fault diagnosis under noisy conditions](https://www.sciencedirect.com/science/article/pii/S0888327024006484)
 
+# ISAC and RIS
+
+1) 用软件仿真做基于智能超表面的压缩成像和信道估计
+
 # 神经网络训练
 
 1）__多专家神经网络___：对于全体样本尽量增广训练简单的神经网络，根据ostu方法自动分割输出分数的熵图，将熵高的样本用于训练第二个神经网络，依次直到样本数较少为止，在测试时，根据训练过程依次用多个网络进行测试，取熵最小的结果。或者依次测试，如果熵不达要求（超过阀值），则测试下一个，如果所有都不达要求，则取熵最小的结果。
