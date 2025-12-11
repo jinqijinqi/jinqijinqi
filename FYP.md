@@ -1,5 +1,7 @@
 # final year project UOG 2025-2026
-1. 海南8- blind radar signal restoration with GAN. [BRSR-OpGAN: Blind Radar Signal Restoration using Operational Generative Adversarial Network](https://github.com/MUzairZahid/Blind-Radar-Signal-Restoration)
+1. (舒森鑫），海南8- blind radar signal restoration with GAN. [BRSR-OpGAN: Blind Radar Signal Restoration using Operational Generative Adversarial Network](https://github.com/MUzairZahid/Blind-Radar-Signal-Restoration)
+   (冉常红）[“Unsupervised Blind Source Separation with Variational Auto-Encoders“](https://github.com/jundsp/VAE-BSS)[Blind Source Separation of Radar Signals in Time
+Domain Using Deep Learning)(https://arxiv.org/pdf/2509.15603)
 2. 海南9- blind radar signal restoration with regressor network [CoRe-Net: Co-Operational Regressor Network with Progressive Transfer Learning for Blind Radar Signal Restoration](https://github.com/MUzairZahid/Blind-Radar-Signal-Restoration)
 3. 海南10-passive target detection based on blind channel identification [Multi-target Detection by Distributed Passive Radar Systems without Reference Signals](https://github.com/LiuRuiQi/Blind-Channel-Identification)
 4. [__成都1-7__2025-2026-Comparison-of-Blind-Source-Separation-techniques: 7 papers/methods](https://github.com/TUIlmenauAMS/Comparison-of-Blind-Source-Separation-techniques) [Fast time domain stereo audio source separation using fractional delay filters](https://aes2.org/publications/elibrary-page/?id=20583)
