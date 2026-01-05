@@ -46,6 +46,7 @@ __17. Biomedical optics express (Q2 fast)__
 21. [Physics in Medicine & Biology(50days, Q3)]
 22. [Signal Processing 63days, Q2](https://www.sciencedirect.com/journal/signal-processing?adobe_mc=MCMID%3D74306888388197055440073385402320894699%7CMCORGID%3D4D6368F454EC41940A4C98A6%2540AdobeOrg%7CTS%3D1741352031&dgcid=sd%3Ajf%3Arecommend-stem)
 23. [COMPUTERS IN BIOLOGY AND MEDICINE (Q2)](https://www.sciencedirect.com/journal/computers-in-biology-and-medicine)
+24. Engineering Applications of Artificial Intelligence (Q1)
 
 
 # 参考 [DynGAN: Solving Mode Collapse in GANs with Dynamic Clustering(code, pami2024)](https://ieeexplore.ieee.org/document/10440507)
