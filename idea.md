@@ -120,6 +120,10 @@ organize students to write review paper
   c) 使用变分推理进行学习
 2）基于变分贝叶斯生成模型的半监督学习
 
+# 基于生成模型的贝叶斯压缩传感
+
+1）[Bayesian compressive sensing using generative models 2025 inverse](https://iopscience.iop.org/article/10.1088/1361-6420/adf914)
+
 # 压缩盲去卷积
 
 1）[Unrolled Compressed Blind-Deconvolution TSP2023](https://ieeexplore.ieee.org/document/10132064), [Learning-Based Reconstruction of FRI Signals TSP2023](https://ieeexplore.ieee.org/document/10169093#citations)[An Efficient Estimation Method for the Model Order of FRI Signal Based on Sub-Nyquist Sampling TIM2023)[https://ieeexplore.ieee.org/document/10267985), [Parameter Estimation of Hybrid LFM and MPSK Pulse Sequences Based on Sub-Nyquist Sampling TIM2024](https://ieeexplore.ieee.org/document/10648820) [VDIP-TGV: Blind Image Deconvolution via Variational Deep Image Prior Empowered by Total Generalized Variation 2023](https://arxiv.org/abs/2310.19477), [Blind Image Deconvolution Using Variational Deep Image Prior TPAMI 2023](https://ieeexplore.ieee.org/document/10146429/citations?tabFilter=papers#citations), [RPIR: A Semiblind Unsupervised Learning Image Restoration Method for Optical Synthetic Aperture Imaging Systems With Co-Phase Errors 2024](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10645065), [IMU-Assisted Accurate Blur Kernel Re-Estimation in Non-Uniform Camera Shake Deblurring TIP 2024](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10558778), 通过变分贝叶斯扩展
