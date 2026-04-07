@@ -121,7 +121,7 @@ small infrared object detection
 
 ## Ali Usman,Sadiq Zeeshan
 
-[UKAN for nuclei segmentation](https://github.com/Mr-UsmanAli/Atten-UKAN.git)
+[Ali Usman: UKAN for nuclei segmentation(thesis and paper)](https://github.com/Mr-UsmanAli/Atten-UKAN.git)
 
 ## Ahmad Muhammad：
 [Hybrid Deep Learning Architecture with Adaptive Feature Fusion for Multi-Stage Alzheimer’s Disease Classification, (Brain Science 2025)](https://www.mdpi.com/2076-3425/15/6/612)
