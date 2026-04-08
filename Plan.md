@@ -122,6 +122,7 @@ small infrared object detection
 ## Ali Usman,Sadiq Zeeshan
 
 [Ali Usman: UKAN for nuclei segmentation(code for thesis and paper)](https://github.com/Mr-UsmanAli/Atten-UKAN.git)
+
 [Sadiq Zeeshan: NAS-UKAN(code for thesis and paper)](https://github.com/zeeshan544/NAS-UKAN/tree/main)
 ## Ahmad Muhammad：
 [Hybrid Deep Learning Architecture with Adaptive Feature Fusion for Multi-Stage Alzheimer’s Disease Classification, (Brain Science 2025)](https://www.mdpi.com/2076-3425/15/6/612)
@@ -144,8 +145,11 @@ super resolution+ infrared and visible image fusion
 ## 张敬一
 
 ## S M SOLAYMAN HOSSEN ROKIB
-     [Rokib: SSSTTM-for-Facial-Action-Unit-Detection(code for thesis and paper)](https://github.com/smshrokib/SSSTTM-for-Facial-Action-Unit-Detection.git)
-     task: develop road crack detection system
+
+   [Rokib:SSSTTM-for-Facial-Action-Unit-Detection(code for thesis and paper)](https://github.com/smshrokib/SSSTTM-for-Facial-Action-Unit-Detection.git)
+     
+     task: develop road crack detection 
+     
    1. [DeepCrack: Learning Hierarchical Convolutional Features for Crack Detection, IEEE Transactions on Image Processing 2019 (code and dataset)](https://github.com/qinnzou/DeepCrack) 
 
 ## Boadu Kwasi Odei
