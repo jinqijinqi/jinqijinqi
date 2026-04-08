@@ -136,6 +136,7 @@ fingerprint recognition
 
 # Khalil Anees 
 super resolution+ infrared and visible image fusion
+[Khalil Anees: FGRE-Fuse(code for thesis and paper)]（https://github.com/Aneeskhalil/FGRE-Fuse/）
 
 # 2023
 --------------------------------
