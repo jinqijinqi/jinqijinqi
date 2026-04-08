@@ -129,6 +129,7 @@ small infrared object detection
 
 ## Jdaba Soufiane
 nuclei segmentation
+[Jdaba Soufiane: Overlapping-Nuclei-Segmentation(code for thesis and paper)](https://github.com/Zagreus17/Overlapping-Nuclei-Segmentation/tree/main)
 
 ## Rafique Hafiza Maria
 fingerprint recognition
