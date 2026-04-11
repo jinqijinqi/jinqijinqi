@@ -155,6 +155,8 @@ super resolution+ infrared and visible image fusion
    1. [DeepCrack: Learning Hierarchical Convolutional Features for Crack Detection, IEEE Transactions on Image Processing 2019 (code and dataset)](https://github.com/qinnzou/DeepCrack) 
 
 ## Boadu Kwasi Odei
+[Boadu Kwasi Odei: LEMed-Medical-Image-Fusion(code for thesis and paper)]https://github.com/odeiii/LEMed-Medical-Image-Fusion/)
+
 infrared and visible image fusion
 1. [LEFuse: Joint low-light enhancement and image fusion for nighttime infrared and visible images (codes), 2025(neurocomputing)](https://www.sciencedirect.com/science/article/pii/S0925231225002644)
 
