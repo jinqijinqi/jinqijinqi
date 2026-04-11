@@ -142,6 +142,9 @@ super resolution+ infrared and visible image fusion
 --------------------------------
 ## 王俊杰
 
+[王俊杰: Facial Action Unit Detection Based on Multi-Scale
+Local Feature Detection(code for thesis and paper)](https://github.com/JJWWWANG/Model/tree/main)
+
 人员检测与计数
 
 ## 张敬一
