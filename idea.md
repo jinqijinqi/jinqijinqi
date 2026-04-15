@@ -62,7 +62,9 @@ organize students to write review paper
 
 12) 基于软或自适应直方图的图像融合
 13) SuperResolution ESRGAN+ LEFuse model[LEFuse: Joint low-light enhancement and image fusion for nighttime infrared and visible images(2025 neurocomputing, code](https://www.sciencedirect.com/science/article/pii/S0925231225002644)
-
+14) 自监督增强源图指导的图像融合：首先利用直方图均衡化增强红外与可见光图像，然后将输入增强图和源图以及噪声输入网络生成融合图I_f，融合图I_f的高频细节与增强可见光高频细节一致，低频与增强可见光和红外一致损失，同时整合图再经过网络生成红外与可见光图，要求逼近增强可见光和红外源图，这样我们就有两种损失：一种是直接要求生成融合图逼近增强源图；另一种是要求融合图可以通过网络生成逼近增强源图，这之间可以取得一定的平衡。
+15) 同时去模糊和图像融合：用selfdeblur去模糊，将源图及增强图加噪声输入前几层，同时生成清晰图和模糊核，然后生成清晰图与模糊核卷积重构与增强源图的损失，同时生成清晰图加噪声输入前几层融合网络产生融合图I_f, I_f的高频与清晰红外的高频一致损失，I_f的低频与清晰红外与可见光图像的低频一致损失。[TIP2026: MDbFusion++: A Visible and Infrared Image
+Fusion Framework Capable for Motion Deblurring](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11474733)
 # 改进softmax
 
 1）直接稀疏化softmax的输出，参考文献[Sparse-softmax: A Simpler and Faster Alternative Softmax Transformation 2022](https://arxiv.org/pdf/2112.12433), [Adaptive Sparse Softmax: An Effective and Efficient Softmax Variant for Text Classification 2023](https://openreview.net/forum?id=5cio7DSIXLQ), [MultiMax: Sparse and Multi-Modal Attention Learning 2024](https://arxiv.org/pdf/2406.01189), [Exploring Alternatives to Softmax Function 2020](https://paperswithcode.com/paper/exploring-alternatives-to-softmax-function),[通向概率分布之路：盘点Softmax及其替代品](https://spaces.ac.cn/archives/10145)
