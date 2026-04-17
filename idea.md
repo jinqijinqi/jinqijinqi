@@ -109,7 +109,7 @@ Fusion Framework Capable for Motion Deblurring](https://ieeexplore.ieee.org/stam
 12) 我们可以对生成器生成的图像加上自然图像限制，从而约束生成模型
 13) 利用噪声注入改善GAN，VAE, diffusion model: 参考styleGAN.
 14) AC-GAN + fake 类= more stability+ fast converging+ intra class diversity+ class consistent: 添加异常类的ACGAN是对ACGAN的扩充，基于此有无穷多应用：a) AC-GAN 模型改进；b) 数据扩充（类平衡与非平衡）；c）混合生成与分类模型训练；d) 开集识别与异常类检测；e) 图像融合：输入红外与可见光，分类红外、可见光、fake、truthorfalse四类；[Conditional GANs with Auxiliary Discriminative Classifier](https://proceedings.mlr.press/v162/hou22a.html)
-
+15) 一种抗GAN模式崩塌的框架：本文提出一种分阶段的统一训练框架，将重建约束、MMD/统计对齐、latent 一致性、距离保持与弱对抗训练结合起来，以更稳定地改善样本覆盖与生成质量
 # 基于稀疏的个数自动选择
 
 1）对于混合高斯模型，使用softmax作为组份比例，然后对softmax加稀疏限制，从而使组份比例中含零，达到自动选择个数的目的. IEEE SPL.
