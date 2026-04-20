@@ -86,7 +86,10 @@ with data augment, learning rate is reduced slowly based on training loss rather
 
 ## 雷晨曦
 small infrared object detection
-
+1. 用我们的NAS方法[NAS-SCAM: Neural Architecture
+Search-Based Spatial and Channel Joint
+Attention Module for Nuclei Semantic
+Segmentation and Classification(MICCAI2020)](https://github.com/jinqijinqi/jinqijinqi/blob/main/NAS-SCAM.pdf)搜索如下红外目标检测网络的最佳结构[TIP2025: OSFormer: One-Step Transformer for Infrared Video Small Object Detection (code)](https://ieeexplore.ieee.org/document/11130659#citations)
 ## 舒森鑫 
 
 infrared and visible image fusion
