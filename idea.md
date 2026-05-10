@@ -1,3 +1,7 @@
+# Industrial Dataset
+1. [Industrial Dataset](https://github.com/jonathanwvd/awesome-industrial-datasets)
+2. [google dataset search](https://datasetsearch.research.google.com/)
+   
 # [Mechanical Systems and Signal Processing 1区 Top,较快，计算易][Classifier-guided neural blind deconvolution: A physics-informed denoising module for bearing fault diagnosis under noisy conditions](https://www.sciencedirect.com/science/article/pii/S0888327024006484)
 # review paper
 organize students to write review paper
