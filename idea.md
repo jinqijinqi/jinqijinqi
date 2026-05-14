@@ -18,6 +18,7 @@ organize students to write review paper
 # 研究思路
 
 1）找到领域近两年的精典文献，仔细总结研究历史和发展，以前两年文献为基础，查找引用它的相关文献直到当前，理解其研究扩展思路得到启发。
+
 2) 将线性与非线性逆问题物理模型嵌入分类与回归网络，构造统一的逆问题物理与分类回归联合损失，增强可解释性，也可以看成多任务网络。
 
 # 深度学习与概率逻辑规则联合学习的通用人工智能
@@ -143,6 +144,7 @@ Fusion Framework Capable for Motion Deblurring](https://ieeexplore.ieee.org/stam
 6) [L0 范数多尺度梯度域稀疏逼近原图，从而找到强边缘，10%强边缘估计核]
 7) selfdeblur 改进：1）网络结构可以是无下采样结构，并用我们的方法搜索最佳结构；2）网络性能提升：原来需要对每个图像进行训练，大的时间开销限制应用，现在输入模糊图、噪声图像、FRT（fourier relu transformation)变换后的图像进行训练，训练好的网络可直接用于去模糊，速度很快；3）对于生成模糊核的网络，输入模糊图、噪声和FRT（fourier relu transformation)变换后的图像；4）网络结构也可以是生成图像和模糊核的双分支网络，从而共享特征，在模糊核的分支可以多次输入FRT（fourier relu transformation)变换后的图像；[selfdeblur](https://ieeexplore.ieee.org/document/9156633/citations?tabFilter=papers#citations)
 8) Bayesian version or other extension [2025MSSP-Classifier-guided neural blind deconvolution: A physics-informed denoising module for bearing fault diagnosis under noisy conditions](https://www.sciencedirect.com/science/article/pii/S0888327024006484)
+9) Levin盲去卷积双向核传递
 
 # ISAC and RIS
 
