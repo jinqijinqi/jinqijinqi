@@ -145,6 +145,9 @@ Fusion Framework Capable for Motion Deblurring](https://ieeexplore.ieee.org/stam
 7) selfdeblur 改进：1）网络结构可以是无下采样结构，并用我们的方法搜索最佳结构；2）网络性能提升：原来需要对每个图像进行训练，大的时间开销限制应用，现在输入模糊图、噪声图像、FRT（fourier relu transformation)变换后的图像进行训练，训练好的网络可直接用于去模糊，速度很快；3）对于生成模糊核的网络，输入模糊图、噪声和FRT（fourier relu transformation)变换后的图像；4）网络结构也可以是生成图像和模糊核的双分支网络，从而共享特征，在模糊核的分支可以多次输入FRT（fourier relu transformation)变换后的图像；[selfdeblur](https://ieeexplore.ieee.org/document/9156633/citations?tabFilter=papers#citations)
 8) Bayesian version or other extension [2025MSSP-Classifier-guided neural blind deconvolution: A physics-informed denoising module for bearing fault diagnosis under noisy conditions](https://www.sciencedirect.com/science/article/pii/S0888327024006484)
 9) Levin盲去卷积双向核传递
+10) Levin深度展开
+11) Levin 与 SBL 结合及其深度展开
+12) SelfDeblur与Levin结合Map_k 损失：噪声输入版与图像输入版
 
 # ISAC and RIS
 
