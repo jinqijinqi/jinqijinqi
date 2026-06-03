@@ -149,6 +149,10 @@ Fusion Framework Capable for Motion Deblurring](https://ieeexplore.ieee.org/stam
 11) Levin 与 SBL 结合及其深度展开
 12) SelfDeblur与Levin结合Map_k 损失：噪声输入版与图像输入版
 
+# 稀疏贝叶斯在信号处理中的应用
+
+1）[雷达与故障诊断MatlabCode](https://github.com/jsdaiustc?tab=repositories): 改进：1）深度展开； 2）covariance matrix free 方法提高计算效率；3）直接建模y=x+n, 其中，x在频域稀疏 
+
 # ISAC and RIS
 
 1) 用软件仿真做基于智能超表面的压缩成像和信道估计
