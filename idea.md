@@ -197,6 +197,7 @@ Fusion Framework Capable for Motion Deblurring](https://ieeexplore.ieee.org/stam
 # Radar Deinterleaving 
 1)[radar deinterveaving challenge(数据、代码框架，以后学生方向)](https://github.com/alan-turing-institute/turing-deinterleaving-challenge)[The Turing Synthetic Radar Dataset: A
 dataset for pulse deinterleaving(paper)](https://arxiv.org/pdf/2602.03856)
+2) 基于局部及全局特征的雷达物理知识引导的脉冲分选
 
 
 
