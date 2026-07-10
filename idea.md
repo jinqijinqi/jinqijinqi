@@ -199,6 +199,11 @@ Fusion Framework Capable for Motion Deblurring](https://ieeexplore.ieee.org/stam
 dataset for pulse deinterleaving(paper)](https://arxiv.org/pdf/2602.03856)
 2) 基于局部及全局特征的雷达物理知识引导的脉冲分选
 
+# 轴承故障诊断
+1） 在基于分类指导的轴承故障诊断中，发现用3次多项式滤波比2次滤波后幅度更大，这个大幅度可能个有区分正常与故障的能力，但是更大的幅度会影响通常基于L1范数的稀疏度量，因此一些小的冲击被置零，为此我们采用L0范数解决此问题
+2）对比2次与3次多项式结果
+3）另外自相关图和包络谱图可能也具有区分能力
+
 
 
 
